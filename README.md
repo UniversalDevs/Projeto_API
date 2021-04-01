@@ -14,5 +14,5 @@
   <a href =""> Backlog </a>  • 
 </p>
 <hr>
-:globe_with_meridians: <h2>Equipe de Desenvolvedores</h2>
+<h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
 
