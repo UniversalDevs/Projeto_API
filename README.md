@@ -1,3 +1,4 @@
 # Projeto_API
-
-<img scr="/Imagens/logo.PNG">
+<p align="center">
+<img src="http://some_place.com/image.png" />
+</p>
