@@ -19,6 +19,7 @@
     <thead>
       <th>Nome</th>
       <th>Foto</th>
+      <th>Função</th>
     </thead>
     <tbody>
      <tr>
@@ -26,30 +27,35 @@
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
         </td>
+      <td>Desenvolvedor Back-End</td>
      </tr>
      <tr>
       <td>Felipe Augusto dos Santos Sousa</tb>
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Felipe.jpg?raw=true" width="100px" heigth="100px">
         </td>
+        <td>Desenvolvedor Front-End</td>
      </tr>
      <tr>
       <td>Gabriel Ramos de Oliveira</tb>
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Ramos.jpeg?raw=true" width="100px" heigth="100px">
         </td>
+        <td>Desenvolvedor Back-End</td>
      </tr>
      <tr>
       <td>Gabriel Pires Rodrigues Ribeiro Evangelista</tb>
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Pires.jpeg?raw=true" width="100px" heigth="100px">
         </td>
+        <td>Desenvolvedor Front-End</td>
      </tr>
      <tr>
       <td>Guilherme Alves Cursino</tb>
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Guilherme.PNG?raw=true" width="100px" heigth="100px">
         </td>
+        <td>Desenvolvedor Front-End</td>
      </tr>
     </tbody>
   </table>
