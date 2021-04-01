@@ -60,8 +60,10 @@
     </tbody>
   </table>
   
+  <br>
+  <hr>
   <h2> :dart: Objetivos do Projeto</h2>
   <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
-![image](https://user-images.githubusercontent.com/79916115/113309156-3c2de300-92dd-11eb-9f1e-bd369a0e2380.png)
+
 
   
