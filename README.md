@@ -21,24 +21,23 @@
       <th>Foto</th>
     </thead>
     <tbody>
+     <tr>
       <td>Eduardo Pereira Carvalho</tb>
       <td>
         <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
       </td>
-  <br>
       <td>Felipe Augusto dos Santos Sousa</tb>
       <td>
         <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
       </td>
-  <br>
       <td>Gabriel Ramos de Oliveira</tb>
       <td>
         <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
       </td>
-  <br>
       <td>Gabriel Pires Rodrigues Ribeiro Evangelista</tb>
       <td>
         <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
       </td>
+     </tr>
     </tbody>
   </table>
