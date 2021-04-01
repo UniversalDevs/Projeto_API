@@ -1,5 +1,3 @@
 # Projeto_API
-<br>
-<br>
 
-background.png
+![GitHub Logo](/Imagens/logo.png)
