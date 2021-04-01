@@ -1,4 +1,4 @@
 # Projeto_API
 
-![GitHub Logo](/Imagens/logo.PNGstyle=centerme)
+![GitHub Logo](/Imagens/logo.PNG?style=centerme)
 
