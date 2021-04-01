@@ -15,4 +15,15 @@
 </p>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
-
+  <table>
+    <thead>
+      <th>Nome</th>
+      <th>Foto</th>
+  </thead>
+  <tbody>
+    <tb>Eduardo Pereira Carvalho</tb>
+    <tb>
+      <img src= "">
+    </tb>
+  </tbody>
+  </table>
