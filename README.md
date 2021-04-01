@@ -1,4 +1,4 @@
 # Projeto_API
 <p align="center">
-<img src="http://some_place.com/image.png" />
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" />
 </p>
