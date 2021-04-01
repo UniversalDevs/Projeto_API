@@ -19,11 +19,11 @@
     <thead>
       <th>Nome</th>
       <th>Foto</th>
-  </thead>
-  <tbody>
-    <tb>Eduardo Pereira Carvalho</tb>
-    <tb>
-      <img src= "">
-    </tb>
-  </tbody>
+    </thead>
+    <tbody>
+    <td>Eduardo Pereira Carvalho</tb>
+    <td>
+      <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true">
+    </td>
+    </tbody>
   </table>
