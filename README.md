@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
-  <a href =""> Objetivos do Projeto</a>  • 
-  <a href =""> Cronograma </a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#spiral_calendar-cronograma-sprints"> Cronograma </a>  • 
   <a href =""> Mapa </a>  • 
   <a href =""> Metodologia </a>  • 
   <a href =""> Tecnologias </a>  • 
