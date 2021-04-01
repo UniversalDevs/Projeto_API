@@ -62,9 +62,8 @@
         <td>Desenvolvedor Front-End</td>
      </tr>
     </tbody>
-    <br>
   </table>
-  
+  <br> 
 <hr>
 <hr>
 <h3>:spiral_calendar: Cronograma Sprints</h3>
