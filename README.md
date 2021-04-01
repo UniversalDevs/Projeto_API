@@ -3,5 +3,5 @@
 <br>
 
 <p align="center">
-  <img scr="/Imagens/logo.PNG">
+  <img scr="/Imagens/logo.png" width="300" height="250">
 </p>
