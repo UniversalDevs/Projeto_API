@@ -3,8 +3,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
   <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
-<hr>
-<br>
+
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
