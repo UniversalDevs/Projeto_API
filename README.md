@@ -17,6 +17,45 @@
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
+<hr>
+
+<h3>:spiral_calendar: Cronograma Sprints</h3>
+<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Cronograma%20API.jpeg?raw=true" width="300"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
   <table align="left">
@@ -63,11 +102,9 @@
      </tr>
     </tbody>
   </table>
-  <br> 
-<hr>
-<hr>
-<h3>:spiral_calendar: Cronograma Sprints</h3>
-<img src= > 
+
+
+
 
 
 
