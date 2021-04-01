@@ -1,3 +1,3 @@
 # Projeto_API
 
-![GitHub Logo](/Imagens/logo.png)
+![GitHub Logo](/Imagens/logo.PNG)
