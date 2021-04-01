@@ -27,5 +27,11 @@
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
         </td>
      </tr>
+     <tr>
+      <td>Eduardo Pereira Carvalho</tb>
+        <td>
+          <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100px" heigth="100px">
+        </td>
+     </tr>
     </tbody>
   </table>
