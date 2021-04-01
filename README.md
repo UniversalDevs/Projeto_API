@@ -4,9 +4,6 @@
   <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
 
-<hr>
-<h3> :dart: Objetivos do Projeto</h2>
-<p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
 
 <p align="center">
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
@@ -18,6 +15,9 @@
   <a href =""> Backlog </a>  • 
 </p>
 <hr>
+<h3> :dart: Objetivos do Projeto</h2>
+<p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
+
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
   <table align="left">
     <thead>
