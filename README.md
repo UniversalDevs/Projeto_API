@@ -19,7 +19,7 @@
 <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
 
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
-  <table align="left" position= "relative">
+  <table align="left" position= "absolute">
     <thead>
       <th>Nome</th>
       <th>Foto</th>
