@@ -5,7 +5,7 @@
   
 <hr>
 <p align="center">
-  <a href =""> Equipe </a>  •
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
   <a href =""> Objetivos </a>  • 
   <a href =""> Cronograma </a>  • 
   <a href =""> Mapa </a>  • 
