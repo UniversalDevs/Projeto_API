@@ -15,7 +15,7 @@
 </p>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
-  <table width="100%">
+  <table align="center">
     <thead>
       <th>Nome</th>
       <th>Foto</th>
