@@ -23,7 +23,7 @@
     <tbody>
     <td>Eduardo Pereira Carvalho</tb>
     <td>
-      <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true">
+      <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="100" heigth="100">
     </td>
     </tbody>
   </table>
