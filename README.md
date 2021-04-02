@@ -25,6 +25,9 @@
 
 <h3>:world_map:	 Mapa do site institucional</h3>
 <img src="https://user-images.githubusercontent.com/79916115/113313108-54076600-92e1-11eb-9100-d6fb3dd5ccf9.png"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/SprintsCronograma/Slide1.PNG?raw=true"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/SprintsCronograma/Slide2.PNG?raw=true"/>
+
 
 
 
