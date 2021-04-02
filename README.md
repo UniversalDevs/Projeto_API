@@ -10,8 +10,6 @@
   <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#spiral_calendar-cronograma-sprints"> Cronograma </a>  • 
   <a href =""> Mapa </a>  • 
-  <a href =""> Metodologia </a>  • 
-  <a href =""> Tecnologias </a>  • 
   <a href =""> Backlog </a>  • 
 </p>
 <hr>
