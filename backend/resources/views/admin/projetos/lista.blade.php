@@ -35,7 +35,13 @@
                                 <tr>
                                     <td>{{ $projeto->nome }}</td>
 
-                                    <td>{{ $projeto->status }}</td>
+                                    <td>
+                                    @if( $projeto->status == 'inativo') 
+                                        <span class="badge bg-danger">Inativo</span>
+                                    @else
+                                        <span class="badge bg-success">Ativo</span>
+                                    @endif
+                                    </td>
                                     <td class="project-actions text-right">
                                         <a class="btn btn-info btn-sm"
                                             href="{{ route('admin.projetos.editar', $projeto->id) }}">

@@ -3,11 +3,7 @@
 namespace App\Providers;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
-use App\Models\Welcome_text;
-use App\Models\Noticias;
-use App\Models\Banners;
-use App\Models\Frases;
-use App\Models\Reflexao;
+use App\Models\Projeto;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -30,6 +26,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        
+        $countProjetos = Projeto::where('status','inativo')->count();
+        View::share('countProjetos', $countProjetos);
     }
 }

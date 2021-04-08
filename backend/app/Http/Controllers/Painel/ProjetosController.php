@@ -21,6 +21,7 @@ class ProjetosController extends Controller
     public function store(Request $request){
         $data = $request->except('_token');
         $data['slug'] = Str::slug($data['nome']);
+        $data['status'] = 'Inativo';
         Projeto::create($data);
         return response()->json(['status'=>'ok']);
     }
