@@ -85,7 +85,7 @@
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Felipe.jpg?raw=true" width="50px">
         </td>
-        <td>Desenvolvedor Front-End</td>
+        <td>Scrum Master</td>
      </tr>
      <tr>
       <td>Gabriel Ramos de Oliveira</tb>
