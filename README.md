@@ -30,6 +30,7 @@
 <hr>
 
 <h3>:memo: Product Backlog</h3>
+<p>Lista de Itens e funcionalidades a serem desenvolvidas e implementadas.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/BacklogTotal.PNG?raw=true">
 
 
