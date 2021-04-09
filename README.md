@@ -32,7 +32,7 @@
 <h3>:memo: Product Backlog</h3>
 <p>Lista de Itens e funcionalidades a serem desenvolvidas e implementadas.
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/BacklogTotal.PNG?raw=true">
-<p> Os Backlogs das Sprints e seues respectivos Burndowns também encontram-se em: <a href="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/ProductBacklog_BacklogsSprint_BurndownsSprint.xlsx">Funcionalidades</a></p>
+<p> Os Backlogs das Sprints e seus respectivos Burndowns também podem ser encontrados em: <a href="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/ProductBacklog_BacklogsSprint_BurndownsSprint.xlsx">Funcionalidades</a></p>
 
 
 
