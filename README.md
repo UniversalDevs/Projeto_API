@@ -19,8 +19,8 @@
 
 <h3>:spiral_calendar: Cronograma Sprints</h3>
 <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Cronograma%20API.jpeg?raw=true" width="300"> 
-<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/SprintsCronograma/Slide1.PNG?raw=true"  width="500"> 
-<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/SprintsCronograma/Slide2.PNG?raw=true"  width="500"> 
+<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/CronogramaSprintPt1.PNG"  width="500"> 
+<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/CronogramaSprintPt2.PNG"  width="500"> 
 
 
 <hr>
