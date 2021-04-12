@@ -67,12 +67,33 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
     });
+    Route::group(['prefix'=>'projetos','as'=>'projetos.'], function () {
+        Route::get('/lista', ['as'=>'lista','uses'=>'Painel\ProjetosController@lista']);
+        Route::get('/novo', ['as'=>'novo','uses'=>'Painel\ProjetosController@novo']);
+        Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\ProjetosController@editar']);
+        Route::post('store', ['as'=>'store','uses'=>'Painel\ProjetosController@store']);
+        Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
+        Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
+    });
+    Route::middleware(['SuperAdmin'])->group(function(){
+        Route::group(['prefix'=>'inaprovados','as'=>'inaprovados.'], function () {
+            Route::get('/lista', ['as'=>'lista','uses'=>'Painel\ProjetosController@listaInaprovados']);
+            Route::get('/avaliar-projeto/{id}', ['as'=>'avaliar','uses'=>'Painel\ProjetosController@avaliar']);
+            Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@updateInaprovado']);
+
+        });
+    });
+    Route::get('/404', function () {
+        return view('errors.404-painel');
+    })->name('404-painel');
 });
 
 
 
 
 Route::get('/', ['as'=>'home','uses'=>'indexController@home']);
+
+
 
 
 Route::get('/', function () {

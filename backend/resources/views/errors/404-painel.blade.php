@@ -1,4 +1,4 @@
-@extends('layouts.site')
+@extends('layouts.painel')
 @section('pre-assets')
 <style>
 #content {
@@ -15,7 +15,7 @@
 
 </style>
 @endsection
-@section('content')
+@section('painel')
 
 <div class="text-center">
     <h1 style="font-size: 100px">404</h1>

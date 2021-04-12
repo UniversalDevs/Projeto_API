@@ -205,6 +205,8 @@
                             </a>
                             
                         </li> -->
+                        <li class="nav-header">Cadastros</li>
+
                         <li class="nav-item">
                             <a href="{{route('admin.voluntarios.lista')}}" class="nav-link">
                                 <i class="fas fa-chalkboard-teacher nav-icon"></i>
@@ -244,19 +246,17 @@
               </li>
             </ul> -->
                       
-            @if(Auth::user()->tipo == 'admin')
-
-
-                        <li class="nav-header"><i class="fas fa-cogs" style="margin-right: 10px;"></i>Configurações</li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fas fa-user"></i>
-                                <p>
-                                    Usuários
-                                </p>
-                            </a>
+            @if(Auth::user()->tipo == 'SuperAdmin')
+                        <li class="nav-header">Administração</li>
+                            <li class="nav-item">
+                                <a href="{{route('admin.inaprovados.lista')}}" class="nav-link">
+                                    <i class="nav-icon fas fa-check-double"></i>
+                                    <p>
+                                        Aprovar Projetos
+                                    </p>
+                                </a>
                             </li>
-                            @endif
+            @endif
                     </ul>
                 </nav>
                 <!-- /.sidebar-menu -->

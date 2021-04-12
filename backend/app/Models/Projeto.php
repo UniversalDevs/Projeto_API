@@ -13,6 +13,7 @@ class Projeto extends Model
         'id',
         'nome',
         'descricao',
+        'criador',
         'voluntarios_id',
         'status',
         'slug',

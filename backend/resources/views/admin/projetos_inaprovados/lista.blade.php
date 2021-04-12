@@ -11,13 +11,6 @@
 <section class="col-12">
     <div class="col-12">
         <div class="card">
-            <div class="card-header">
-               
-                <div class="card-tools float-left">
-                    <a href="{{ route('admin.projetos.novo') }}" class="btn btn-warning btn-xs"><i class="fas fa-plus"></i> Cadastrar</a>
-                </div>
-            </div>
-
             <!-- /.card-header -->
             <div class="card-body table-responsive p-0">
 
@@ -25,8 +18,8 @@
                         <thead>
                             <tr>
                                 <th>Nome</th>
-                                <th>Status</th>
-                                <th class=" text-right">Ações</th>
+                                <th>Criador</th>
+                                <th class="text-right">Ações</th>
 
                             </tr>
                         </thead>
@@ -36,19 +29,12 @@
                                     <td>{{ $projeto->nome }}</td>
 
                                     <td>
-                                    @if( $projeto->status == 'inativo') 
-                                        <span class="badge bg-danger">Inativo</span>
-                                    @elseif($projeto->status == 'ativo')
-                                        <span class="badge bg-success">Ativo</span>
-                                    @else
-                                        <p>Reprovado</p>
-                                    @endif
+                                        {{ $projeto->criador }}
                                     </td>
                                     <td class="project-actions text-right">
                                         <a class="btn btn-info btn-sm"
-                                            href="{{ route('admin.projetos.editar', $projeto->id) }}">
-                                            <i class="fas fa-pencil-alt">
-                                            </i>
+                                            href="{{ route('admin.inaprovados.avaliar', $projeto->id) }}">
+                                            <i class="fas fa-eye"></i>
                                         </a>
                                         <!-- <a class="btn btn-info btn-sm" href="">
                                 <i class="fas fa-eye">
