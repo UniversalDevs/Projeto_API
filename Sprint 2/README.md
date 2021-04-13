@@ -11,11 +11,11 @@
 <hr>
 
 <h3> :dart: Entregas da Sprint</h3>
-<p text-color="red"><strong> Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
+<p><strong> Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
 <hr>
 <p><strong> Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.</p>
 <hr>
 <p><strong> Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
 <hr>
-<font color="red">Este texto é vermelho!</font>
+
 
