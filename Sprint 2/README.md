@@ -15,5 +15,5 @@
 <hr>
 <p><strong> Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.</p>
 <hr>
-<p><strong> Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
+<p>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
 <hr>
