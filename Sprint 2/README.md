@@ -20,5 +20,5 @@
 <p>:ballot_box_with_check: <strong> Aprovação de Projetos: Permitir que Administradores possam aprovar os projetos a serem desenvolvidos na instituição.</p>
 <hr>
 
-<h3>:chart_with_downwards_trend: Burndown Chart </3>
+<h3>:chart_with_downwards_trend: Burndown Chart </h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="500"/>
