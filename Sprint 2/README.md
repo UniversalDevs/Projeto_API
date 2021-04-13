@@ -11,11 +11,10 @@
 </p>
 <hr>
 
-<h3>:heavy_exclamation_mark: Informações Importantes</h3>
-
+<h3>:heavy_exclamation_mark: Informações Destaque</h3>
 <p><strong> Duração:</strong> de 29/03/2021 à 18/04/2021</p>
-<p><strong> Principais linguagens utilizadas:</strong> SQL e PHP</p>
-
+<p><strong> Principais linguagens utilizadas na Sprint:</strong> SQL e PHP</p>
+<p><a href="https://github.com/UniversalDevs/Projeto_API/tree/main/backend"></a></p>
 <hr>
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
 
