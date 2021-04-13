@@ -27,7 +27,7 @@
 <hr>
 
 <h3>:chart_with_downwards_trend: Burndown Chart </h3>
-<p>Lista de Atividades
+<p>Lista de Atividades</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/ListaDeAtividades_Sprint" width="500"/>
 <p>Tabela do Brundown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/TabelaDoBurndown_Sprint" width="500"/>
