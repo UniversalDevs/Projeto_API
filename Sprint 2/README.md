@@ -10,8 +10,7 @@
 </p>
 <hr>
 
-<h3>:triangular_flag_on_post: Entregas da Sprint</h3>
-<hr/>
+
 :ballot_box_with_check: <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
 :ballot_box_with_check: <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.
 :ballot_box_with_check: <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.
