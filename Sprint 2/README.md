@@ -6,5 +6,7 @@
 <p align="center">
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores">Entregas da Sprint </a>  •
   <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Informações</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Demonstração das Funcionadades</a>  • 
+
 </p>
 <hr>
