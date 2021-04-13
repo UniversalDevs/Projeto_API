@@ -14,5 +14,5 @@
 - [x] :ballot_box_with_check: <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.
 - [x] :ballot_box_with_check: <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.
 - [x] :ballot_box_with_check: <strong>Armazenamento no Banco de Dados: Aramazenar as informações referentes à Voluntários, Participantes e Projetos em um Banco de dados, utilizndo as linguagens SQL e PHP.</strong>
-- [x] <strong> Aprovação de Projetos: Permitir que Administradores possam aprovar os projetos a serem desenvolvidos na instituição.
-
+- [x] :ballot_box_with_check: <strong> Aprovação de Projetos: Permitir que Administradores possam aprovar os projetos a serem desenvolvidos na instituição.
+<hr>
