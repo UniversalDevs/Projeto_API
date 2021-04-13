@@ -17,3 +17,5 @@
 <hr>
 <p><strong> Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
 <hr>
+<font color="red">Este texto é vermelho!</font>
+
