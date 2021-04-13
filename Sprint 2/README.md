@@ -11,9 +11,9 @@
 <hr>
 
 <h3> :dart: Entregas da Sprint</h3>
-<p><font color="red"><strong> Gerenciamento de Voluntários:</strong></font> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
+<p text-color="red">><strong> Gerenciamento de Voluntários:</strong></font> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
 <hr>
 <p><strong> Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.</p>
 <hr>
-<p>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
+<p><strong> Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
 <hr>
