@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-- [x] Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
+- [x] <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
 - [x] Gerenciamento de Participantes: Criação, Alteração, Busca e Exclusão de Dados de Participantes.
 - [x] Gerenciamento de Projeto: Criação, Alteração, Busca e Exclusão de Dados de Projetos.
 
