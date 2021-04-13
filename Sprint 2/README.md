@@ -12,12 +12,12 @@
 <hr>
 
 <h3>:heavy_exclamation_mark: Informações Importantes</h3>
-<hr>
+
 <p><strong> Duração: de 29/03/2021 à 18/04/2021</strong></p>
 
 <hr>
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
-<hr>
+
 <p>:ballot_box_with_check: <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
 <p>:ballot_box_with_check: <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.</p>
 <p>:ballot_box_with_check: <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
