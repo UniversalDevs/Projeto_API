@@ -13,7 +13,8 @@
 
 <h3>:heavy_exclamation_mark: Informações Importantes</h3>
 
-<p><strong> Duração: de 29/03/2021 à 18/04/2021</strong></p>
+<p><strong> Duração:</strong> de 29/03/2021 à 18/04/2021</p>
+<p><strong> Principais linguagens utilizadas:</strong> SQL e PHP</p>
 
 <hr>
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
@@ -26,4 +27,9 @@
 <hr>
 
 <h3>:chart_with_downwards_trend: Burndown Chart </h3>
+<p>Lista de Atividades
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/ListaDeAtividades_Sprint" width="500"/>
+<p>Tabela do Brundown</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/TabelaDoBurndown_Sprint" width="500"/>
+<p>Gráfico Burndown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="500"/>
