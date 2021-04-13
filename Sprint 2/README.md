@@ -11,6 +11,7 @@
 <hr>
 
 - [x] <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
-- [x] Gerenciamento de Participantes: Criação, Alteração, Busca e Exclusão de Dados de Participantes.
-- [x] Gerenciamento de Projeto: Criação, Alteração, Busca e Exclusão de Dados de Projetos.
+- [x] <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.
+- [x] <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.
+- [x] Armazenamento no Banco de Dados: Aramazenar as informações referentes à Voluntários, Participantes e Projetos em um Banco de dados, utilizndo as linguagens SQL e PHP
 
