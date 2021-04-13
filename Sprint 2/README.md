@@ -1,4 +1,4 @@
-<h1> Sprint 2</h1>
+<h1 align="center">:chart_with_upwards_trend: Sprint 2 :chart_with_upwards_trend:</h1>
 
 
 <p align="center">
