@@ -10,9 +10,9 @@
 </p>
 <hr>
 
-- [x] <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
-- [x] <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.
-- [x] <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.
-- [x] <strong>Armazenamento no Banco de Dados: Aramazenar as informações referentes à Voluntários, Participantes e Projetos em um Banco de dados, utilizndo as linguagens SQL e PHP.</strong>
+- [x] :ballot_box_with_check: <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.
+- [x] :ballot_box_with_check: <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.
+- [x] :ballot_box_with_check: <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.
+- [x] :ballot_box_with_check: <strong>Armazenamento no Banco de Dados: Aramazenar as informações referentes à Voluntários, Participantes e Projetos em um Banco de dados, utilizndo as linguagens SQL e PHP.</strong>
 - [x] <strong> Aprovação de Projetos: Permitir que Administradores possam aprovar os projetos a serem desenvolvidos na instituição.
 
