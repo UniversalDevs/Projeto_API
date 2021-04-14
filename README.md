@@ -42,7 +42,8 @@
 
 
 <h3> Video das Funcionalidades</h3>
-https://youtu.be/2mlp6k6hb0A
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/2mlp6k6hb0A)
+
 
 
 
