@@ -42,7 +42,7 @@
 
 
 <h3> Video das Funcionalidades</h3>
-[<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG" width="50%">](https://youtu.be/2mlp6k6hb0A)
+
 
 
 
@@ -121,7 +121,7 @@
 
 
 
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
   
