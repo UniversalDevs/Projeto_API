@@ -121,7 +121,7 @@
 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/2mlp6k6hb0A)
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
 
 
   
