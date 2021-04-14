@@ -50,7 +50,11 @@
 [![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
 <hr>
 
+<h4>Área Administrativa</h4>
 
+
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://youtu.be/14nKFTV2I1s)
+<hr>
 
 
 
