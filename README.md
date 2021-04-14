@@ -35,6 +35,7 @@
 <h3> Burndowns das Sprints</h3>
 <p><strong>Sprint #1</strong></p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%231.png" width="550"/>
+<p><strong>Sprint #1</strong></p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="550"/>
 <p> Os Backlogs das Sprints e seus respectivos Burndowns também podem ser encontrados em: <a href="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/ProductBacklog_BacklogsSprint_BurndownsSprint.xlsx">Funcionalidades</a></p>
 
