@@ -43,6 +43,7 @@
 
 <hr>
 <h3>:computer: Funcionalidades Do Site</h3>
+<p>As imagens são clicáveis e redirecionam diretamente para vídeos que demonstram as funcionalidades</p>
 <hr>
 <h4>Site Institucional</h4>
 
