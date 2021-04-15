@@ -25,3 +25,8 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint1/TabelaDoBurndown_Sprint%231.PNG" width="1000"/>
 <p>Gráfico Burndown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%231.png" width="500"/>
+<hr>
+
+<h3>:computer: Site Funcionando</h3>
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
+<hr>
