@@ -14,7 +14,7 @@
 <h3>:heavy_exclamation_mark: Informações Destaque</h3>
 <p><strong> Duração:</strong> de 08/03/2021 à 28/03/2021</p>
 <p><strong> Utilizados na Sprint: </strong>Html, CSS e Javascript</p>
-<a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Front-End-main">Projeto da Entrega</a>
+<p> O projeto do site encontra se em: <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Front-End-main">FrontEnd Main</a>
 <hr>
 
 
