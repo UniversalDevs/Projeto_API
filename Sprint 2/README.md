@@ -4,9 +4,9 @@
 </p>
 <hr>
 <p align="center">
-  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Informações Importantes</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Informações Destaque</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/README.md#bookmark_tabs-entregas-da-sprint">Entregas da Sprint </a>  •
-  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Burndown Chart</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/README.md#chart_with_downwards_trend-burndown-chart-"> Burndown Chart</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/README.md#v%C3%ADdeo-de-demonstra%C3%A7ao-da-%C3%A1rea-administrativa"> Demonstração das Funcionadades</a>  • 
 </p>
 <hr>
