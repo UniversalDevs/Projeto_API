@@ -37,5 +37,5 @@
 <h4>Área Administrativa</h4>
 
 
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://youtu.be/14nKFTV2I1s)
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/API%202021_1%20-%20Instituto%20V%C3%B3%20Maria%20Felix%20-%20Sprint%2002%20(%C3%81rea%20Administrativa).mp4)
 <hr>
