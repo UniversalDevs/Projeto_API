@@ -12,18 +12,11 @@
 <hr>
 
 <h3>:heavy_exclamation_mark: Informações Destaque</h3>
-<p><strong> Duração:</strong> de 29/03/2021 à 18/04/2021</p>
-<p><strong> Principais linguagens utilizadas na Sprint:</strong> SQL e PHP</p>
+<p><strong> Duração:</strong> de 08/03/2021 à 28/03/2021</p>
+<p><strong> Utilizados na Sprint: </strong>Html, CSS e Javascript</p>
 <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Front-End-main">Projeto da Entrega</a>
 <hr>
-<h3>:bookmark_tabs: Entregas da Sprint</h3>
 
-<p>:ballot_box_with_check: <strong>Gerenciamento de Voluntários:</strong> Criação, Alteração, Busca e Exclusão de Dados de Voluntários.</p>
-<p>:ballot_box_with_check: <strong>Gerenciamento de Participantes:</strong> Criação, Alteração, Busca e Exclusão de Dados de Participantes.</p>
-<p>:ballot_box_with_check: <strong>Gerenciamento de Projeto:</strong> Criação, Alteração, Busca e Exclusão de Dados de Projetos.</p>
-<p>:ballot_box_with_check: <strong>Armazenamento no Banco de Dados:</strong> Armazenar as informações referentes à Voluntários, Participantes e Projetos em um Banco de dados, utilizando as linguagens SQL e PHP.</p>
-<p>:ballot_box_with_check: <strong> Aprovação de Projetos:</strong> Permitir que Administradores possam aprovar os projetos a serem desenvolvidos na instituição.</p>
-<hr>
 
 <h3>:chart_with_downwards_trend: Burndown Chart </h3>
 <p>Lista de Atividades</p>
