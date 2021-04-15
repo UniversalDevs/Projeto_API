@@ -16,7 +16,7 @@
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
 <hr>
-<h3> Vídeos </h3>
+<h3> :video_camera: Vídeos </h3>
 <p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
 <hr>
 <h3>:spiral_calendar: Cronograma Sprints</h3>
