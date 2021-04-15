@@ -34,7 +34,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="500"/>
 
 <hr>
-<h4>Área Administrativa</h4>
+<h4>Vídeo de Demonstraçao da Área Administrativa</h4>
 
 
 [![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/API%202021_1%20-%20Instituto%20V%C3%B3%20Maria%20Felix%20-%20Sprint%2002%20(%C3%81rea%20Administrativa).mp4)
