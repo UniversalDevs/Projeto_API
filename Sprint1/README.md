@@ -29,5 +29,7 @@
 
 <h3>:computer: Site Funcionando</h3>
 
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint1/SiteInstitucional_Funcionalidades-Sprint%201.mkv)
+
+<p>Também disponível em:<a href="https://www.youtube.com/watch?v=2mlp6k6hb0A"> Youtube</a></p>
 <hr>
