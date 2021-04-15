@@ -29,6 +29,6 @@
 <p>Lista de Atividades</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint1/ListaDeAtividades_Sprint%231.PNG" width="900"/>
 <p>Tabela do Brundown</p>
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/TabelaDoBurndown_Sprint%232.PNG" width="500"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint1/TabelaDoBurndown_Sprint%231.PNG" width="500"/>
 <p>Gráfico Burndown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%231.png" width="500"/>
