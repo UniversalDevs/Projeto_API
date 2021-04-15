@@ -32,3 +32,10 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/TabelaDoBurndown_Sprint%232.PNG" width="500"/>
 <p>Gráfico Burndown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="500"/>
+
+<hr>
+<h4>Área Administrativa</h4>
+
+
+[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://youtu.be/14nKFTV2I1s)
+<hr>
