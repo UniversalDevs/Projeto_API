@@ -106,7 +106,7 @@
         <td>Scrum Master</td>
      </tr>
      <tr>
-      <td>Gabriel Ramos de Oliveira</tb>
+      <td>Gabriel Ramos Oliveira</tb>
         <td>
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Ramos.jpeg?raw=true" width="50px">
         </td>
