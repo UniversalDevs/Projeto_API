@@ -1,7 +1,7 @@
 # Projeto_API
 <p align="center">
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
-  <h3 align="center">Instituto Vó Maria Félix</h3>
+   <h3 align="center">Projeto desenvolvido por:</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="200" />
 </p>  
 
 
@@ -14,8 +14,8 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="200" />
-  <h3 align="center">Empresa desenvolvedora</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
+  <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
