@@ -1,9 +1,8 @@
 # Projeto_API
 <p align="center">
-   <h3 align="center">Projeto desenvolvido por:</h3>
-   <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="200" />
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" />
+  <h3 align="center">Projeto desenvolvido por:</h3>
 </p>  
-
 
 <p align="center">
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
