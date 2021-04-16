@@ -14,9 +14,9 @@
 </p>
 <hr>
 <p align="center">
-  <h3>Empresa desenvolvedora</h3>
-  <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400"/>
-</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="200" height="100" />
+  <h3 align="center">Empresa desenvolvedora</h3>
+</p>  
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Desenvolver um site institucional para a escola Vó Maria Félix, que permita com que seja gerenciável Participantes, Voluntários e Projetos.
