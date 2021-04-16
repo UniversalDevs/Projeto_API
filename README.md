@@ -27,7 +27,13 @@
 <p>:ballot_box_with_check: Cadstro de Projetos</p>
 <p>:ballot_box_with_check: Aprovação de Projetos
 </p>
-  
+
+<hr>
+<h3>:arrows_counterclockwise: Sprints</h3>
+<p>:white_check_mark: Sprint 1</p>
+<p>:white_check_mark: Sprint 2</p>
+<p>:construction: Sprint 3</p>
+<p>:construction: Sprint 4</p>
 <hr> 
 <h3> :video_camera: Vídeos </h3>
 <p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
