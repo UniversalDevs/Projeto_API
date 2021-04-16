@@ -30,10 +30,10 @@
 
 <hr>
 <h3>:arrows_counterclockwise: Sprints</h3>
-<p>:white_check_mark: Sprint 1</p>
-<p>:white_check_mark: Sprint 2</p>
-<p>:construction: Sprint 3</p>
-<p>:construction: Sprint 4</p>
+<p>:white_check_mark: Sprint 1 08/02 à 28/03</p>3
+<p>:white_check_mark: Sprint 2 - 29/03 à 18/04</p>
+<p>:construction: Sprint 3 - 26/04 à 16/05</p>
+<p>:construction: Sprint 4 - 17/05 à 05/06</p>
 <hr> 
 <h3> :video_camera: Vídeos </h3>
 <p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
