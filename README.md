@@ -20,7 +20,7 @@
 <p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
 <hr>
 <h3>:spiral_calendar: Cronograma Sprints</h3>
-<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/background.pnge" width="300"> 
+<img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/background.png" width="300"> 
 <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/CronogramaSprintPt1.PNG"  width="500"> 
 <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/CronogramaSprintPt2.PNG"  width="500"> 
 
