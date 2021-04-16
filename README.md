@@ -128,6 +128,7 @@
      </tr>
     </tbody>
   </table>
-<hr>
+  
+ <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="200"/>
 
   
