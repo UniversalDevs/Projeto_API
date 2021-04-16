@@ -129,6 +129,6 @@
     </tbody>
   </table>
   
- <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="200"/>
+ <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="500"/>
 
   
