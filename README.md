@@ -34,7 +34,11 @@
 <p>:white_check_mark: <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint%202">Sprint 2</a>   - 29/03 à 18/04</p>
 <p>:construction: Sprint 3 - 26/04 à 16/05</p>
 <p>:construction: Sprint 4 - 17/05 à 05/06</p>
-<hr> 
+<hr>
+
+<h3>Ferramentas & Tecnologias utilizadas</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Ferramentas%20e%20Tecnologias%20utilizadas.png"/>
+<hr>
 <h3> :video_camera: Vídeos </h3>
 <p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
 <hr>
