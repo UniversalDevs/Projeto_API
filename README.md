@@ -102,13 +102,36 @@
 <h4>Área Administrativa</h4>
 <p> É nesta área em que é exercido o gerenciamento de projetos, voluntários e participantes, assim como, a aprovação de projetos, que define os projetos que serão trabalhados</p>
 
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://youtu.be/14nKFTV2I1s)
 <hr>
 
+<h3>Rota do Administrador</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/RotadoAdmin.gif"/>
+<hr>
+<h3>Login de Acesso</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/Login.gif"/>
+<hr>
+<h3>Menu Do Administrador</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuAdmin.gif"/>
+<hr>
+<h3>Cadasto de Voluntários</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt1.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt2.gif"/>
+<hr>
+<h3>Cadastro de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeProjetos.gif"/>
+<hr>
+<h3>Visualização de Projetos e Pós Cadastro</h3>
+<p> As notificações são informadas no canto superior direito da tela</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/VisualizarProjeto.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoCadastrado.gif"/>
+<hr>
 
-
-
-
+<h3>Aprovação de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AprovarProjetos.gif"/>
+<hr>
+<h3>Cadastro de Participantes</h3>
+<img src=""/>
+<hr>
 
 
 
