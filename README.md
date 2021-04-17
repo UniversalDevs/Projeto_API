@@ -70,10 +70,10 @@
 
 <hr>
 <h3>:computer: Funcionalidades Do Site</h3>
-<p>As imagens são clicáveis e redirecionam diretamente para vídeos que demonstram as funcionalidades</p>
 <hr>
 <h3>Site Institucional</h3>
-<p>Essa área expões informações acerca da instituição, como os projetos que já foras desenvolvidos, os voluntários que ajudam na ONG e também o que se trata a organização</p>
+<p>Essa área expõe informações acerca da instituição, como os projetos que já foram desenvolvidos, os voluntários que ajudam na ONG e também o que se trata a organização.</p>
+<p>Também é possível encontrar as funcionalidades do site institucional no Youtube. Acesse: <a href="https://www.youtube.com/watch?v=2mlp6k6hb0A">API 2021/1 - Instituto Vó Maria Felix - Sprint 01 (Área Institucional)</a></p>
 <hr>
 <h3> Página Inicial</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/PaginaInicial.gif"/>
@@ -96,12 +96,11 @@
 <h3>Menu do Site</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuInstitucional.gif"/>
 <hr>
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
-<hr>
+
 
 <h4>Área Administrativa</h4>
 <p> É nesta área em que é exercido o gerenciamento de projetos, voluntários e participantes, assim como, a aprovação de projetos, que define os projetos que serão trabalhados</p>
-
+<p>Também é possível encontrar as funcionalidades da Área Administrativa no Youtube. Acesse: <a href="https://www.youtube.com/watch?v=2mlp6k6hb0A">API 2021/1 - Instituto Vó Maria Felix - Sprint 02 (Área Administrativa)</a></p>
 <hr>
 
 <h3>Rota do Administrador</h3>
