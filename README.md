@@ -10,7 +10,7 @@
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#pushpin-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#arrows_counterclockwise-sprints"> Sprints</a>  • 
-   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
+   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#wrench-ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#spiral_calendar-cronograma-sprints"> Cronograma </a>  • 
   <a href =""> Mapa </a>  • 
   <a href =""> Backlog </a>  • 
