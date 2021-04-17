@@ -72,9 +72,30 @@
 <h3>:computer: Funcionalidades Do Site</h3>
 <p>As imagens são clicáveis e redirecionam diretamente para vídeos que demonstram as funcionalidades</p>
 <hr>
-<h43>Site Institucional</h3>
+<h3>Site Institucional</h3>
 <p>Essa área expões informações acerca da instituição, como os projetos que já foras desenvolvidos, os voluntários que ajudam na ONG e também o que se trata a organização</p>
-
+<hr>
+<h3> Página Inicial</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/PaginaInicial.gif"/>
+<hr>
+<h3>Galeria de Voluntários</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/GaleriaVoluntarios.gif"/>
+<hr>
+<h3>Aba de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AbaProjetos.gif"/>
+<hr>
+<h3>Aba de Contatos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/Contatos.gif"/>
+<hr>
+<h3>Aba Sobre a Instituição</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AbaSobre.gif"/>
+<hr>
+<h3>Versão Responsiva do Site</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/SiteResponsivo.gif"/>
+<hr>
+<h3>Menu do Site</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuInstitucional.gif"/>
+<hr>
 [![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
 <hr>
 
@@ -86,10 +107,6 @@
 
 
 
-
-
-
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/API%202021_1%20-%20Instituto%20V%C3%B3%20Maria%20Felix%20-%20Sprint%2002%20(%C3%81rea%20Administrativa).mp4"/>
 
 
 
