@@ -34,9 +34,38 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="500"/>
 
 <hr>
-<h4>Vídeo de Demonstraçao da Área Administrativa</h4>
 
-
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint%202/API%202021_1%20-%20Instituto%20V%C3%B3%20Maria%20Felix%20-%20Sprint%2002%20(%C3%81rea%20Administrativa).mp4)
-<p> Também disponível no <a href="https://www.youtube.com/watch?v=14nKFTV2I1s">Youtube</a></p>
+<h3>Área Administrativa</h3>
+<p> É nesta área em que é exercido o gerenciamento de projetos, voluntários e participantes, assim como, a aprovação de projetos, que define os projetos que serão trabalhados.</p>
+<p>:movie_camera: Também é possível encontrar as funcionalidades da Área Administrativa no Youtube. Acesse: <a href="https://www.youtube.com/watch?v=2mlp6k6hb0A">API 2021/1 - Instituto Vó Maria Felix - Sprint 02 (Área Administrativa)</a></p>
 <hr>
+
+<h3>Rota do Administrador</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/RotadoAdmin.gif"/>
+<hr>
+<h3>Login de Acesso</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/Login.gif"/>
+<hr>
+<h3>Menu Do Administrador</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuAdmin.gif"/>
+<hr>
+<h3>Cadasto de Voluntários</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt1.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt2.gif"/>
+<hr>
+<h3>Cadastro de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeProjetos.gif"/>
+<hr>
+<h3>Visualização de Projetos e Pós Cadastro</h3>
+<p> As notificações são informadas no canto superior direito da tela</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/VisualizarProjeto.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoCadastrado.gif"/>
+<hr>
+
+<h3>Aprovação de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AprovarProjetos.gif"/>
+<hr>
+<h3>Cadastro de Participantes</h3>
+<img src=""/>
+<hr>
+
