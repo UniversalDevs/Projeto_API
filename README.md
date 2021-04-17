@@ -73,13 +73,13 @@
 <p>As imagens são clicáveis e redirecionam diretamente para vídeos que demonstram as funcionalidades</p>
 <hr>
 <h4>Site Institucional</h4>
-
+<p>Essa área expões informações acerca da instituição, como os projetos que já foras desenvolvidos, os voluntários que ajudam na ONG e também o que se trata a organização</p>
 
 [![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://youtu.be/2mlp6k6hb0A)
 <hr>
 
 <h4>Área Administrativa</h4>
-
+<p> É nesta área em que é exercido o gerenciamento de projetos, voluntários e participantes, assim como, a aprovação de projetos, que define os projetos que serão trabalhados</p>
 
 [![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint2/thumbnailSprint2.PNG)](https://youtu.be/14nKFTV2I1s)
 <hr>
