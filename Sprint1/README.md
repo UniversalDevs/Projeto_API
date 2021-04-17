@@ -26,9 +26,29 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%231.png" width="500"/>
 <hr>
 
-<h3>:computer: Site Funcionando</h3>
-
-[![Watch the video](https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/thumbnail.PNG)](https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint1/SiteInstitucional_Funcionalidades-Sprint%201.mkv)
-
-<p>Também disponível em:<a href="https://www.youtube.com/watch?v=2mlp6k6hb0A"> Youtube</a></p>
+<h3>Site Institucional</h3>
+<p>Essa área expõe informações acerca da instituição, como os projetos que já foram desenvolvidos, os voluntários que ajudam na ONG e também o que se trata a organização.</p>
+<p>:movie_camera: Também é possível encontrar as funcionalidades do site institucional no Youtube. Acesse: <a href="https://www.youtube.com/watch?v=2mlp6k6hb0A">API 2021/1 - Instituto Vó Maria Felix - Sprint 01 (Área Institucional)</a></p>
 <hr>
+<h3> Página Inicial</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/PaginaInicial.gif"/>
+<hr>
+<h3>Galeria de Voluntários</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/GaleriaVoluntarios.gif"/>
+<hr>
+<h3>Aba de Projetos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AbaProjetos.gif"/>
+<hr>
+<h3>Aba de Contatos</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/Contatos.gif"/>
+<hr>
+<h3>Aba Sobre a Instituição</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AbaSobre.gif"/>
+<hr>
+<h3>Versão Responsiva do Site</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/SiteResponsivo.gif"/>
+<hr>
+<h3>Menu do Site</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuInstitucional.gif"/>
+<hr>
+
