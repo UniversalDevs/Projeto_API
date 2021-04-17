@@ -7,7 +7,10 @@
 
 <p align="center">
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
-  <a href ="https://github.com/UniversalDevs/Projeto_API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#pushpin-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#arrows_counterclockwise-sprints"> Sprints</a>  • 
+   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#spiral_calendar-cronograma-sprints"> Cronograma </a>  • 
   <a href =""> Mapa </a>  • 
   <a href =""> Backlog </a>  • 
@@ -36,7 +39,7 @@
 <p>:construction: Sprint 4 - 17/05 à 05/06</p>
 <hr>
 
-<h3>Ferramentas & Tecnologias utilizadas</h3>
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Ferramentas%20e%20Tecnologias%20utilizadas.png"/>
 <hr>
 <h3> :video_camera: Vídeos </h3>
