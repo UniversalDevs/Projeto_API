@@ -30,8 +30,8 @@
 
 <hr>
 <h3>:arrows_counterclockwise: Sprints</h3>
-<p>:white_check_mark: Sprint 1 08/02 à 28/03</p>3
-<p>:white_check_mark: Sprint 2 - 29/03 à 18/04</p>
+<p>:white_check_mark: <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint1">Sprint 1</a> - 08/02 à 28/03</p>
+<p>:white_check_mark: <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint%202">Sprint 2</a>   - 29/03 à 18/04</p>
 <p>:construction: Sprint 3 - 26/04 à 16/05</p>
 <p>:construction: Sprint 4 - 17/05 à 05/06</p>
 <hr> 
