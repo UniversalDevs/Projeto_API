@@ -66,6 +66,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/AprovarProjetos.gif"/>
 <hr>
 <h3>Cadastro de Participantes</h3>
+<a href="https://www.youtube.com/watch?v=OTX1wnvQrfs">Confira no Youtube</a>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroParticipantesPt1.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroParticipantesPt2.gif"/>
 
