@@ -49,7 +49,7 @@
 <h3>Menu Do Administrador</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/MenuAdmin.gif"/>
 <hr>
-<h3>Cadasto de Voluntários</h3>
+<h3>Cadastro de Voluntários</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt1.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/CadastroDeVoluntariosPt2.gif"/>
 <hr>
