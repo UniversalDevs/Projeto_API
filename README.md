@@ -27,7 +27,7 @@
 <h3>:pushpin: Requisitos do cliente</h3>
 <p>:ballot_box_with_check: Cadastro de Voluntários</p>
 <p>:ballot_box_with_check: Cadastro de Participantes</p>
-<p>:ballot_box_with_check: Cadstro de Projetos</p>
+<p>:ballot_box_with_check: Cadastro de Projetos</p>
 <p>:ballot_box_with_check: Aprovação de Projetos
 </p>
 
