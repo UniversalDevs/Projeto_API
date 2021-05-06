@@ -1,0 +1,21 @@
+@extends('layouts.site')
+@section('content')
+<div class="control_800" style="padding-top: 90px">
+    <h1 style="font-size: 64px; text-align: center;">Voluntários</h1>
+    <div class="row">
+        @foreach($voluntarios as $voluntario)
+            <div class="col-sm-4">
+                <h2 id="Titulo">{{ $voluntario->nome }}</h2>
+                <br>
+                <p>
+                    <strong>Email: </strong>{{ $voluntario->email }}
+                </p>
+                <p id="Informacoes">
+                    <strong>Data:</strong> XX/XX/XXXX
+                </p>
+            </div>
+
+        @endforeach
+    </div>
+</div>
+@endsection

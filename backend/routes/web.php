@@ -88,16 +88,12 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
     })->name('404-painel');
 });
 
+Route::get('/', ['as'=>'home','uses'=>'Site\PaginasController@Home']);
+
+Route::get('/voluntarios', ['as'=>'home','uses'=>'Site\PaginasController@Voluntarios']);
 
 
+Route::get('/lista', ['as'=>'lista','uses'=>'Site\ProjetosController@lista']);
 
-Route::get('/', ['as'=>'home','uses'=>'indexController@home']);
-
-
-
-
-Route::get('/', function () {
-    return view('welcome');
-});
 
 Route::get('/{slug}', ['as'=>'conteudo','uses'=>'Site\ConteudosController@Select']);

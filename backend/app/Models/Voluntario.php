@@ -24,5 +24,6 @@ class Voluntario extends Model
         'email',
         'horario',
         'dias_disponiveis',
+        'status',
         ];
 }
