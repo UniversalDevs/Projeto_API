@@ -17,5 +17,10 @@ class Projeto extends Model
         'voluntarios_id',
         'status',
         'slug',
+        'media_id',
         ];
+
+        public function media(){
+            return $this->hasOne(Media::class,'id','media_id');
+        }
 }

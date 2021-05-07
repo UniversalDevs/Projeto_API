@@ -75,6 +75,9 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
     });
+    Route::group(['prefix'=>'ajax','as'=>'ajax.'], function () {
+        Route::POST('/uploadimg', 'Painel\MediaController@upload_img')->name('uploadimg');
+    }); 
     Route::middleware(['SuperAdmin'])->group(function(){
         Route::group(['prefix'=>'inaprovados','as'=>'inaprovados.'], function () {
             Route::get('/lista', ['as'=>'lista','uses'=>'Painel\ProjetosController@listaInaprovados']);
@@ -90,10 +93,12 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
 
 Route::get('/', ['as'=>'home','uses'=>'Site\PaginasController@Home']);
 
-Route::get('/voluntarios', ['as'=>'home','uses'=>'Site\PaginasController@Voluntarios']);
+Route::get('/voluntarios', ['as'=>'voluntarios','uses'=>'Site\PaginasController@voluntarios']);
+Route::get('/projetos', ['as'=>'projetos','uses'=>'Site\PaginasController@projetos']);
 
 
 Route::get('/lista', ['as'=>'lista','uses'=>'Site\ProjetosController@lista']);
+Route::group(['prefix'=>'projetos','as'=>'projetos.'], function () {
+    Route::get('/{slug}', ['as'=>'projeto','uses'=>'Site\PaginasController@projeto']);
+}); 
 
-
-Route::get('/{slug}', ['as'=>'conteudo','uses'=>'Site\ConteudosController@Select']);

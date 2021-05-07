@@ -81,42 +81,40 @@
     });
 
 
-    // $('#uploadArquivos').on('change', function () {
-    //     $(".loadingimg").fadeIn('fast');
-    //     var data = new FormData();
-    //     console.log($("input[id='uploadArquivos']")[0].files);
-    //     $.each($("input[id='uploadArquivos']")[0].files, function (i, file) {
-    //         data.append('imagePath', file);
-    //     });
-    //     data.append('_token', '{{ csrf_token() }}');
-
-    //     $.ajax({
-    //         url: '',
-    //         type: 'POST',
-    //         cache: false,
-    //         contentType: false,
-    //         processData: false,
-    //         headers: {
-    //             'X-CSRF-TOKEN': "{{ csrf_token() }}"
-    //         },
-    //         data: data,
-    //         success: function (result) {
-    //             $.each(result, function (index, value) {
-    //                 var html = '';
-    //                 html += '<li>';
-    //                 html += '<input type="hidden" name="arquivo" value="' + value + '" />';
-    //                 html += '<br>';
-    //                 html += `<img src="{{ asset("uploads/img/") }}/` +
-    //                     value + `" alt="">`;
-    //                 html += '</li>';
-    //                 $('#preview ul').html(html);
-    //                 //console.log(value);
-    //             });
-    //         }
-    //     });
-    //     $(".loadingimg").fadeOut('slow');
-    // });
-
+    $('#uploadArquivos').on('change', function () {
+        $(".loadingimg").fadeIn('fast');
+        var data = new FormData();
+        console.log($("input[id='uploadArquivos']")[0].files);
+        $.each($("input[id='uploadArquivos']")[0].files, function (i, file) {
+            data.append('imagePath', file);
+        });
+        data.append('_token', '{{ csrf_token() }}');
+        $.ajax({
+            url: '{{ route("admin.ajax.uploadimg") }}',
+            type: 'POST',
+            cache: false,
+            contentType: false,
+            processData: false,
+            headers: {
+                'X-CSRF-TOKEN': "{{ csrf_token() }}"
+            },
+            data: data,
+            success: function (result) {
+                $.each(result, function (index, value) {
+                    var html = '';
+                    html += '<li>';
+                    html += '<input type="hidden" name="arquivo" value="' + value + '" />';
+                    html += '<br>';
+                    html += `<img src="{{ asset("uploads/img/") }}/` +
+                        value + `" alt="">`;
+                    html += '</li>';
+                    $('#preview ul').html(html);
+                    //console.log(value);
+                });
+            }
+        });
+        $(".loadingimg").fadeOut('slow');
+    });
     $('.datepicker').datepicker();
 </script>
 @endsection

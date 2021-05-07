@@ -11,7 +11,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
-
+@yield('pre-assets')
 <body>
     <div id="tudo">
         <header>
@@ -28,20 +28,18 @@
             <nav class="float-r">
                 <ul class="list-auto">
                     <li>
-                        <a href="home.html" title="PaginaInicial">Página Inicial</a>
+                        <a href="{{url('/')}}" title="PaginaInicial"><i class="fas fa-home"></i></a>
                     </li>
                     <li>
-                        <a href="Projetos.html" title="Projetos">Projetos</a>
+                        <a href="{{url('/projetos')}}" title="Projetos">Projetos</a>
                     </li>
                     <li>
-                        <a href="home.html" title="Voluntarios">Voluntários</a>
+                        <a href="{{url('/voluntarios')}}" title="Voluntarios">Voluntários</a>
                     </li>
                     <li>
-                        <a href="Contato.html" title="Contato">Contato</a>
+                        <a href="{{url('/contato')}}" title="Contato">Contato</a>
                     </li>
-                    <li>
-                        <a href="Sobre.html" title="Sobre">Sobre</a>
-                    </li>
+                    
                 </ul>
             </nav>
         </header>

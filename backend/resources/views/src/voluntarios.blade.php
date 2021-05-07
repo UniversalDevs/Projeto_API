@@ -11,7 +11,7 @@
                     <strong>Email: </strong>{{ $voluntario->email }}
                 </p>
                 <p id="Informacoes">
-                    <strong>Data:</strong> XX/XX/XXXX
+                    <strong>Tipo:</strong> {{ $voluntario->tipo }}
                 </p>
             </div>
 

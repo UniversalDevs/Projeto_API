@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Painel;
 
 use App\Http\Controllers\Controller;
 use App\Models\Projeto;
+use App\Models\Media;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
@@ -25,6 +26,8 @@ class ProjetosController extends Controller
         $data['status'] = 'Inativo';
         $c = Auth::user('name');
         $data['criador'] = $c['name'];
+        $media = Media::orderBy('created_at','desc')->first();
+        $data['media_id'] = $media['id'];
         Projeto::create($data);
         return response()->json(['status'=>'ok']);
     }
@@ -36,6 +39,12 @@ class ProjetosController extends Controller
 
     public function update(Request $request, $id){
         $data = $request->except('_token');
+        if(isset($data['arquivo']) == 'true'){
+            $file_id = Media::where('file',$data['arquivo'])->orderBy('id','desc')->first();
+            unset($data['arquivo']);
+            $media = Media::where('id', $file_id['id'])->orderBy('id','desc')->first();
+            $data['media_id'] = $media['id'];
+        }
         $v = Projeto::where('id',$id)->update($data);
         return response()->json(['status'=>'ok']);
     }

@@ -1,15 +1,22 @@
 <section class="col-12">
     <div class="row col-8 mx-auto">
-        <div class="form-group col-sm-8">
+        <div class="form-group col-sm-12">
             <label for="">Nome</label>
             <input type="text" value="{{@$voluntario->nome}}" name="nome" class="form-control">
         </div>
-        <div class="form-group col-sm-4">
+        <div class="form-group col-sm-6">
             <label for="">Tipo</label>
             <select name="tipo" id="" class="form-control">
                 <option value="Específico" @if(@$voluntario->tipo == 'Específico') selected="" @endif>Específico</option>
                 <option value="Geral" @if(@$voluntario->tipo == 'Geral') selected="" @endif>Geral</option>
                 <option value="Inativo"  @if(@$voluntario->tipo == 'Inativo') selected="" @endif>Inativo</option>
+            </select>
+        </div>
+        <div class="form-group col-sm-6">
+        <label for="">Status</label>
+            <select name="status" id="" class="form-control">
+                <option value="Ativo" @if(@$voluntario->status == 'Ativo') selected="" @endif>Ativo</option>
+                <option value="Inativo"  @if(@$voluntario->status == 'Inativo') selected="" @endif>Inativo</option>
             </select>
         </div>
         <div class="form-group col-sm-6">
@@ -42,15 +49,15 @@
         </div>
         <div class="form-group col-sm-6">
             <label for="">Nacionalidade</label>
-            <input type="text" value="{{@$voluntario->nacionalidade}}" name="nacionalidade" class="form-control" maxlength="2" size="2">
+            <input type="text" value="{{@$voluntario->nacionalidade}}" name="nacionalidade" class="form-control">
         </div>
         <div class="form-group col-sm-12">
             <label for="">Profissão</label>
-            <input type="text" value="{{@$voluntario->profissao}}" name="profissao" class="form-control" maxlength="2" size="2">
+            <input type="text" value="{{@$voluntario->profissao}}" name="profissao" class="form-control">
         </div>
         <div class="form-group col-sm-6">
             <label for="">Horário</label>
-            <input type="text" value="{{@$voluntario->horario}}" name="horario" class="form-control" maxlength="2" size="2">
+            <input type="text" value="{{@$voluntario->horario}}" name="horario" class="form-control">
         </div>
         <div class="form-group col-sm-6 pl-5">
             <label for="">Dias Disponíveis</label>
