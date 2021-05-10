@@ -36,16 +36,16 @@ class PaginasController extends Controller
                 }
             }
 
-            public function projeto(Request $request, $slug){
-                $projeto = Projeto::where('slug',$slug)->where('status','ativo')->first();
-                if(!$projeto){
-                    return view('errors.404');
-                        }
-                        else{
-                            return view("src.interno",compact('projeto'));
-                        }
-                    }
-                }
+    public function projeto(Request $request, $slug){
+        $projeto = Projeto::where('slug',$slug)->where('status','!=','removido')->where('status','!=','removido')->first();
+        if(!$projeto){
+            return view('errors.404');
+        }
+        else{
+            return view("src.interno",compact('projeto'));
+            }
+    }
+}
 
 
        

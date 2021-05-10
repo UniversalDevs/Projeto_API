@@ -48,7 +48,7 @@
         </div>
         <footer class="footer">
             <div class="cont">
-                <div class="row">
+                <div class="">
 
 
                     <div class="footer-col">

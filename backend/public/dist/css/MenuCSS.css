@@ -33,10 +33,7 @@ body {
 
 header {
   min-height: 60px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
+  width: 100%;
   border-bottom: 0px solid rgb(255, 255, 255);
   background: #004754;
   z-index: 2;
@@ -86,7 +83,7 @@ input#control-nav {
 
 /* content */
 section {
-  padding: 80px 20px 50px;
+  padding: 20px 50px;
   border-top: 1px solid #ccc;
   font-size: 20px;
   line-height: 24px;

@@ -1,20 +1,26 @@
 @extends('layouts.site')
 @section('content')
-@foreach($projetos as $projeto)
-    <section class="Projeto1">
-        <div class="control_800">
+<div class="control_800">
+    <h1 class="text-center">Projetos</h1>
+    @foreach($projetos as $projeto)
+        <section class="Projeto1">
+
             @if($projeto->media)
                 <img src="{{ $projeto->media->fullpatch() }}" class="float-r" id="FotoProjeto" />
+            @else
+                <img src="{{ asset('dist/img/not-found.jpg') }}" class="float-r" id="FotoProjeto" alt="">
             @endif
             <h2 class="Titulo">{{ $projeto->nome }}</h2>
             <br>
             <p>
-                <strong>Descrição: </strong>{{ $projeto->descricao }}
+               {{ mb_strimwidth($projeto->descricao, 0, 150, "...") }}
             </p>
             <p class="Informacoes">
-                <a href="{{route('projetos.projeto',$projeto->slug)}}" class="btn btn-primary">Ver Mais</a>
+                <a href="{{ route('projetos.projeto',$projeto->slug) }}"
+                    class="btn btn-primary">Ver Mais</a>
             </p>
-        </div>
-    </section>
-@endforeach
+
+        </section>
+    @endforeach
+</div>
 @endsection
