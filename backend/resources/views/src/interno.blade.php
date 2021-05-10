@@ -2,7 +2,7 @@
 @section('content')
 <div class="control_800">
         <section class="Projeto1">
-            <div class="control">
+            <div class="control_800">
                 <h2 class="Titulo">{{ $projeto->nome }}</h2>
                 <br>
                 <p>

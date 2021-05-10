@@ -2,7 +2,7 @@
 @section('content')
 @foreach($projetos as $projeto)
     <section class="Projeto1">
-        <div class="control">
+        <div class="control_800">
             @if($projeto->media)
                 <img src="{{ $projeto->media->fullpatch() }}" class="float-r" id="FotoProjeto" />
             @endif
