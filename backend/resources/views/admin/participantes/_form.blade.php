@@ -53,6 +53,7 @@
             <input type="text" value="{{@$participante->estado}}" name="estado" class="form-control" maxlength="2" size="2">
         </div>
 
+        
        
         
         

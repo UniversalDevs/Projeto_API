@@ -4,6 +4,8 @@ namespace App\Http\Controllers\Painel;
 
 use App\Http\Controllers\Controller;
 use App\Models\Voluntario;
+use App\Models\User;
+
 use Illuminate\Http\Request;
 
 class VoluntariosController extends Controller
@@ -21,8 +23,25 @@ class VoluntariosController extends Controller
 
     public function store(Request $request){
         $data = $request->all();
-        $dias_semana = implode(",",$data['dias_disponiveis']);
-        $data['dias_disponiveis'] = $dias_semana;
+        if(isset($data['dias_disponiveis'])){
+            $dias_semana = implode(",",$data['dias_disponiveis']);
+            $data['dias_disponiveis'] = $dias_semana;
+        }
+        if($data['tipo'] == 'Específico'){
+            User::create([
+                'name'=>$data['nome'],
+                'password'=>$data['password'],
+                'tipo'=>'SuperAdmin',
+                'email'=>$data['email'],
+            ]);
+        }else{
+            User::create([
+                'name'=>$data['nome'],
+                'password'=>$data['password'],
+                'tipo'=>'Admin',
+                'email'=>$data['email'],
+            ]);
+        }
         Voluntario::create($data);
         return response()->json(['status'=>'ok']);
     }

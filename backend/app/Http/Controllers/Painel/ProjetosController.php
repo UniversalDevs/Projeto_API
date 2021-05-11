@@ -8,6 +8,7 @@ use App\Models\Media;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
+use PDF;
 
 class ProjetosController extends Controller
 {
@@ -47,6 +48,13 @@ class ProjetosController extends Controller
         }
         $v = Projeto::where('id',$id)->update($data);
         return response()->json(['status'=>'ok']);
+    }
+
+    public function download(Request $request, $id){
+        $data = $request->except('_token');
+        $projeto = Projeto::where('id',$id)->first();
+        $pdf = PDF::loadView('pdf.projeto', compact('projeto'));
+        return $pdf->download('projeto_'.$projeto['id'].'.pdf');
     }
 
     public function delete(Request $request, $id){

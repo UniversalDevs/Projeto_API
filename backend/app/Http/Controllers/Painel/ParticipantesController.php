@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Painel;
 use App\Models\Participante;
+
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
@@ -19,6 +20,7 @@ class ParticipantesController extends Controller
     public function store(Request $request){
         $data = $request->all();
         Participante::create($data);
+        
         return response()->json(['status'=>'ok']);
     }
 

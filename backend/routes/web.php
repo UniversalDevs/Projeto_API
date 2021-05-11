@@ -72,6 +72,7 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::get('/novo', ['as'=>'novo','uses'=>'Painel\ProjetosController@novo']);
         Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\ProjetosController@editar']);
         Route::post('store', ['as'=>'store','uses'=>'Painel\ProjetosController@store']);
+        Route::get('/download/{id}', ['as'=>'download','uses'=>'Painel\ProjetosController@download']);
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
     });

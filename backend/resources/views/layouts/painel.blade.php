@@ -206,6 +206,7 @@
                             
                         </li> -->
                         <li class="nav-header">Cadastros</li>
+                        @if(Auth::user()->tipo == 'SuperAdmin')
 
                         <li class="nav-item">
                             <a href="{{route('admin.voluntarios.lista')}}" class="nav-link">
@@ -224,7 +225,7 @@
                                 </p>
                             </a>
                         </li>
-
+                        @endif
                         <li class="nav-item">
                             <a href="{{route('admin.projetos.lista')}}" class="nav-link">
                                 <i class="fas fa-lightbulb nav-icon"></i>

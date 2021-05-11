@@ -12,7 +12,8 @@ use DB;
 class PaginasController extends Controller
 {
     public function Home(){
-        return view ('src.index');
+        $projetos = Projeto::where('status','ativo')->take(3)->get();
+        return view ('src.index',compact('projetos'));
     }
 
     public function voluntarios(){

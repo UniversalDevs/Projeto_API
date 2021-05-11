@@ -45,6 +45,11 @@
                                     @endif
                                     </td>
                                     <td class="project-actions text-right">
+
+                                    <a class="btn btn-warning btn-sm"
+                                            href="{{ route('admin.projetos.download', $projeto->id) }}">
+                                            <i class="fas fa-download"></i>
+                                        </a>
                                         <a class="btn btn-info btn-sm"
                                             href="{{ route('admin.projetos.editar', $projeto->id) }}">
                                             <i class="fas fa-pencil-alt">

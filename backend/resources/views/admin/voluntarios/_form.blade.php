@@ -2,7 +2,7 @@
     <div class="row col-8 mx-auto">
         <div class="form-group col-sm-12">
             <label for="">Nome</label>
-            <input type="text" value="{{@$voluntario->nome}}" name="nome" class="form-control">
+            <input type="text" value="{{@$voluntario->nome}}" name="nome" class="form-control" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="">Tipo</label>
@@ -33,7 +33,7 @@
         </div>
         <div class="form-group col-sm-6">
             <label for="">Email</label>
-            <input type="email" value="{{@$voluntario->email}}" name="email" class="form-control">
+            <input type="email" value="{{@$voluntario->email}}" name="email" class="form-control" required>
         </div>
         <div class="form-group col-sm-12">
             <label for="">Endereço</label>
@@ -113,6 +113,11 @@
             ><span>Sábado</span></p>
 
         </div>
+        <div class="form-group col-sm-12">
+            <label for="">Senha</label>
+            <input type="password" value="" name="password" class="form-control" required>
+        </div>
+
     </div>
     <div class="clearfix m-top-lg m-bottom-lg"></div>
 </section>
