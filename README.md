@@ -180,12 +180,6 @@
         <td>Desenvolvedor Back-End</td>
      </tr>
      <tr>
-      <td>Gabriel Pires Rodrigues Ribeiro Evangelista</tb>
-        <td>
-          <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Pires.jpeg?raw=true" width="50px">
-        </td>
-        <td>Desenvolvedor Front-End</td>
-     </tr>
      <tr>
       <td>Guilherme Alves Cursino</tb>
         <td>
