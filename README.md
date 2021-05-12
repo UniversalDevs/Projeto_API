@@ -58,7 +58,7 @@
 
 <h3>:memo: Product Backlog</h3>
 <p>Lista de Itens e funcionalidades a serem desenvolvidas e implementadas.
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/BacklogTotal.PNG?raw=true">
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/BacklogTotal.PNG">
 <h3> Burndowns das Sprints</h3>
 <p><strong>Sprint #1</strong></p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%231.png" width="550"/>
