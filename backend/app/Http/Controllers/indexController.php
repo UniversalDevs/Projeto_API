@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\User;
+use App\Models\Mensagens;
 
 class indexController extends Controller
 {
@@ -23,7 +24,8 @@ class indexController extends Controller
      */
     public function index()
     {   
-        return view('admin.index');
+        $msgs = Mensagens::orderBy('created_at', 'desc')->get();
+        return view('admin.index', compact('msgs'));
 
     }
 

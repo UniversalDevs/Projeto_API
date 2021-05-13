@@ -12,8 +12,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css" rel="stylesheet" />
+
 </head>
-@yield('pre-assets')
+@yield('pre-asset')
 
 <body>
     <div id="tudo">
@@ -58,23 +60,13 @@
                     <div class="footer-col">
                         <h4>O que procura?</h4>
                         <ul>
-                            <li><a href="home.html">Voluntários</a></li>
-                            <li><a href="Projetos.html">Projetos</a></li>
-                            <li><a href="Contato.html">Contato</a></li>
-                            <li><a href="#">Inscrever-se</a></li>
-                            <li><a href="Sobre.html">Sobre Nós</a></li>
+                            <li><a href="{{url('/voluntarios')}}">Voluntários</a></li>
+                            <li><a href="{{url('/projetos')}}">Projetos</a></li>
+                            <li><a href="{{url('/contato')}}">Contato</a></li>
 
                         </ul>
                     </div>
-                    <div class="footer-col">
-                        <h4>Siga-nos</h4>
-                        <div class="social-links">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </footer>
@@ -83,6 +75,8 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+
     <script>
         $('.slick_projetos').slick({
                     prevArrow: '<a class="arrow arrow-prev"><i class="fas fa-chevron-left"></i></a>',
@@ -103,6 +97,7 @@
                     ]
                 });
     </script>
+    @yield('pos-script')
 </body>
 
 </html>

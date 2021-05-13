@@ -41,6 +41,9 @@ Auth::routes();
 
 Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], function () {
     Route::get('/', ['as'=>'home','uses'=>'indexController@index']);
+    Route::get('/ver_mensagem/{id}', ['as'=>'ver_mensagem','uses'=>'Painel\MensagensController@ver_mensagem']);
+    Route::get('/delete_msg/{id}', ['as'=>'delete_msg','uses'=>'Painel\MensagensController@delete_msg']);
+
     Route::group(['prefix'=>'voluntarios','as'=>'voluntarios.'], function () {
         Route::get('/lista', ['as'=>'lista','uses'=>'Painel\VoluntariosController@lista']);
         Route::get('/novo', ['as'=>'novo','uses'=>'Painel\VoluntariosController@novo']);
@@ -96,6 +99,8 @@ Route::get('/', ['as'=>'home','uses'=>'Site\PaginasController@Home']);
 
 Route::get('/voluntarios', ['as'=>'voluntarios','uses'=>'Site\PaginasController@voluntarios']);
 Route::get('/projetos', ['as'=>'projetos','uses'=>'Site\PaginasController@projetos']);
+Route::get('/contato', ['as'=>'contato','uses'=>'Site\PaginasController@contato']);
+Route::post('/enviar-contato', ['as'=>'enviar-contato','uses'=>'Site\PaginasController@enviar_contato']);
 
 
 Route::get('/lista', ['as'=>'lista','uses'=>'Site\ProjetosController@lista']);

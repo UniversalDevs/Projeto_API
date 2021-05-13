@@ -5,7 +5,7 @@
     <div class="row">
         @foreach($voluntarios as $voluntario)
             <div class="col-sm-4">
-                <h2 id="Titulo">{{ $voluntario->nome }}</h2>
+                <h2 class="titulo">{{ $voluntario->nome }}</h2>
                 <br>
                 <p>
                     <strong>Email: </strong>{{ $voluntario->email }}
@@ -13,8 +13,9 @@
                 <p id="Informacoes">
                     <strong>Tipo:</strong> {{ $voluntario->tipo }}
                 </p>
+                <hr>
             </div>
-
+            
         @endforeach
     </div>
 </div>

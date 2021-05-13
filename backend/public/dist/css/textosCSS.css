@@ -18,6 +18,12 @@
     max-width: 800px;
     margin: 0 auto;
   }
+
+  @media only screen and (max-width: 600px) {
+    .control_800{
+      padding: 0 50px;
+    }
+  }
   
   button{
     background: #004754; 
@@ -60,6 +66,12 @@ body h2{
     margin-left: 60px;
     font-size: 40px;
 }
+
+.titulo{
+  margin-bottom: 40px;
+  height: 70px;
+}
+
 #Formulario h2{
     color:#212121;
     text-align: center;
