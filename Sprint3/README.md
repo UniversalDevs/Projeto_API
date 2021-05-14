@@ -41,7 +41,7 @@
 <h3>Projetos em PDF</h3>
 <p> Após o cadastro de um projeto, é possível gerar um PDF contendo suas informações.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoPDF1.gif"/>
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoNoSite2.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoPDF2.gif"/>
 <hr>
 
 <h3>Informações na Área Institucional</h3>
