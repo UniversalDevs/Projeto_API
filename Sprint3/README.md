@@ -58,7 +58,7 @@
 <h3>Enviar Emails pela Aba Contatos</h3>
 <p> Os emails enviados dentro do site institucional serão redirecionados à área administrativa.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos1.gif"/>
-<p>Ao atualizar a página home, é possível visualizar o email que foi enviado</p<
+<p>Ao atualizar a página home, é possível visualizar o email que foi enviado</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos2.gif"/>
   
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos3.gif"/>
