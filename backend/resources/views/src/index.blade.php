@@ -21,6 +21,7 @@
 
     <div class="control_800">
         <div class="slick_projetos">
+        @if (@$i>=1)
         @foreach($projetos as $projeto)
             <a href="{{ route('projetos.projeto',$projeto->slug) }}" class="projeto">
             @if($projeto->media)
@@ -31,6 +32,9 @@
             <p class="text-center">{{ $projeto->nome }}</p>
             </a>
         @endforeach
+        @else
+        <h3 style="text-align: center;">Não existem projetos cadastrados</h3>
+        @endif
         </div>
     </div>
 </div>

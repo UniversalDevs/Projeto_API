@@ -1,7 +1,7 @@
 @extends('layouts.site')
 @section('content')
-<div class="control_800">
-    <h1 class="text-center">Projetos</h1>
+<div class="control_800" style="padding-top: 90px">
+    <h1 style="font-size: 64px; text-align: center;">Projetos</h1>
     @foreach($projetos as $projeto)
         <section class="Projeto1">
 

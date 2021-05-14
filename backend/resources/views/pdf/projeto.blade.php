@@ -14,6 +14,7 @@
         <p style="text-align: justify; max-width: 600px; margin: 0 auto;">
             {{$projeto->descricao}}
         </p>
+        
     </div>
 </body>
 

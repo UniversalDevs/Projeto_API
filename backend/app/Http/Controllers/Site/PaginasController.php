@@ -14,7 +14,8 @@ class PaginasController extends Controller
 {
     public function Home(){
         $projetos = Projeto::where('status','ativo')->take(3)->get();
-        return view ('src.index',compact('projetos'));
+        $i = count($projetos);
+        return view ('src.index',compact('projetos','i'));
     }
 
     public function voluntarios(){
