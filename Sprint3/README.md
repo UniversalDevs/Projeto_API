@@ -32,3 +32,31 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint3/TabelaDoBurndown_Sprint%233.PNG" width="500"/>
 <p>Gráfico Burndown</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%233.PNG" width="500"/>
+<hr>
+
+<h3>:link: Ferramentas Integradas à Área Administrativa e Institucional</h3>
+<p> Nessa Sprint foram implementadas ferramentas que conectam as informações da área administrativa e área institucional.</p>
+<hr>
+
+<h3>Projetos em PDF</h3>
+<p> Após o cadastro de um projeto, é possível gerar um PDF com as informações contidas nesse.</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoPDF1.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoNoSite2.gif"/>
+<hr>
+
+<h3>Informações na Área Institucional</h3>
+<p><strong> Projeto:</strong> Assim que um projeto for ativo, ele pode ser publicado no site Institucional</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoNoSite2.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/ProjetoNoSite1.gif"/>
+<hr>
+
+<p><strong> Voluntários:</strong> Os voluntários também podem ser acrescentados ao Site Institucional</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/VoluntarioNoSite2.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/VoluntarioNoSite2.gif"/>
+<hr>
+
+<h3>Enviar Emails pela Aba Contatos</h3>
+<p> Os emails enviados dentro do site institucional serão redirecionados à área administrativa.</p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos1.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos2.gif"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/EnviarEmailContatos3.gif"/>
