@@ -14,7 +14,8 @@
 <h3>:heavy_exclamation_mark: Informações Destaque</h3>
 <p><strong> Duração:</strong> de 26/04 à 16/05</p>
 <p><strong> Principais linguagens utilizadas na Sprint:</strong> SQL e PHP</p>
-<a href="https://github.com/UniversalDevs/Projeto_API/tree/main/backend">Entrega da Sprint</a>
+<p><a href="https://github.com/UniversalDevs/Projeto_API/tree/main/backend">Entrega da Sprint</a></p>
+<p>:warning: As tarefas desta Sprint foram acrescentadas à pasta backend, assim como na Sprint anterior, pois são funcionalidades que complementam ações na área administrativa.</p>
 <hr>
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
 
