@@ -27,8 +27,8 @@
 
 <h3>:chart_with_downwards_trend: Burndown Chart </h3>
 <p>Lista de Atividades</p>
-<img src="" width="900"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint3/ListaDeAtividades_Sprint%233.PNG" width="900"/>
 <p>Tabela do Brundown</p>
-<img src="" width="500"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint3/TabelaDoBurndown_Sprint%233.PNG" width="500"/>
 <p>Gráfico Burndown</p>
-<img src="" width="500"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%233.PNG" width="500"/>
