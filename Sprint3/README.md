@@ -19,9 +19,9 @@
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
 
 <p>:ballot_box_with_check: <strong>Conexão Administrativo/Institucional:</strong> Permitir alteração de informações acerca de voluntários e projetos no site.</p>
-<p>:ballot_box_with_check: <strong>Login:</strong> Permitir com que somente Administradores e Usuários possam acessar a área administrativa</p>
-<p>:ballot_box_with_check: <strong>Integração Email:</strong> Permitir visualizar no painel administrativos os emails/conteúdos  enviados através da Aba Contatos </p>
-<p>:ballot_box_with_check: <strong>Projetos em PDF:</strong> Ao criar um projeto, há a possibilidade de criar um PDF com seu conteúdo</p>
+<p>:ballot_box_with_check: <strong>Login:</strong> Permitir com que somente Administradores e Usuários possam acessar a área administrativa.</p>
+<p>:ballot_box_with_check: <strong>Integração Email:</strong> Permitir visualizar no painel administrativos os emails/conteúdos  enviados através da Aba Contatos.</p>
+<p>:ballot_box_with_check: <strong>Projetos em PDF:</strong> Ao criar um projeto, há a possibilidade de criar um PDF com seu conteúdo.</p>
 
 <hr>
 
