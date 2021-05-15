@@ -37,7 +37,7 @@
 
 <h3>Área Administrativa</h3>
 <p> É nesta área em que é exercido o gerenciamento de projetos, voluntários e participantes, assim como, a aprovação de projetos, que define os projetos que serão trabalhados.</p>
-<p>:movie_camera: Também é possível encontrar as funcionalidades da Área Administrativa no Youtube. Acesse: <a href="https://www.youtube.com/watch?v=2mlp6k6hb0A">API 2021/1 - Instituto Vó Maria Felix - Sprint 02 (Área Administrativa)</a></p>
+<p>:movie_camera: Também é possível encontrar as funcionalidades da Área Administrativa no Youtube. Acesse: <a href="https://youtu.be/14nKFTV2I1s">API 2021/1 - Instituto Vó Maria Felix - Sprint 02 (Área Administrativa)</a></p>
 <hr>
 
 <h3>Rota do Administrador</h3>
