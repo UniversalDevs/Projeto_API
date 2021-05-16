@@ -43,7 +43,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Ferramentas%20e%20Tecnologias%20utilizadas.png"/>
 <hr>
 <h3> :video_camera: Vídeos </h3>
-<p> As funcionalidades também podem ser encontradas em:<a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
+<p> Além das funcionalidades apresentadas nas Sprints, também é possível encontrá-las no Youtube. Acesse: <a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
 <hr>
 <h3>:spiral_calendar: Cronograma Sprints</h3>
 <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/CronogramaParte1.PNG"  width="500"> 
