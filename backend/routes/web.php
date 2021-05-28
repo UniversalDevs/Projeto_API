@@ -79,9 +79,20 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
     });
+
+    Route::group(['prefix'=>'users','as'=>'users.'], function () {
+        Route::get('/lista', ['as'=>'lista','uses'=>'Painel\UserController@lista']);
+        Route::get('/novo', ['as'=>'novo','uses'=>'Painel\UserController@novo']);
+        Route::get('/create', ['as'=>'create','uses'=>'Painel\UserController@create']);
+        Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\UserController@editar']);
+        Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\UserController@delete']);
+        Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\UserController@update']);
+    }); 
+
     Route::group(['prefix'=>'ajax','as'=>'ajax.'], function () {
         Route::POST('/uploadimg', 'Painel\MediaController@upload_img')->name('uploadimg');
     }); 
+
     Route::middleware(['SuperAdmin'])->group(function(){
         Route::group(['prefix'=>'inaprovados','as'=>'inaprovados.'], function () {
             Route::get('/lista', ['as'=>'lista','uses'=>'Painel\ProjetosController@listaInaprovados']);
@@ -93,6 +104,9 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
     Route::get('/404', function () {
         return view('errors.404-painel');
     })->name('404-painel');
+
+    Route::get('logout', ['as'=>'logout','uses'=>'Auth\LoginController@logout']);
+
 });
 
 Route::get('/', ['as'=>'home','uses'=>'Site\PaginasController@Home']);

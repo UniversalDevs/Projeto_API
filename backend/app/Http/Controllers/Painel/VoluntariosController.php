@@ -27,21 +27,7 @@ class VoluntariosController extends Controller
             $dias_semana = implode(",",$data['dias_disponiveis']);
             $data['dias_disponiveis'] = $dias_semana;
         }
-        if($data['tipo'] == 'Específico'){
-            User::create([
-                'name'=>$data['nome'],
-                'password'=>$data['password'],
-                'tipo'=>'SuperAdmin',
-                'email'=>$data['email'],
-            ]);
-        }else{
-            User::create([
-                'name'=>$data['nome'],
-                'password'=>$data['password'],
-                'tipo'=>'Admin',
-                'email'=>$data['email'],
-            ]);
-        }
+        
         Voluntario::create($data);
         return response()->json(['status'=>'ok']);
     }

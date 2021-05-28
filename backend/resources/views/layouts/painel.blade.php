@@ -257,6 +257,15 @@
                                     </p>
                                 </a>
                             </li>
+                            <li class="nav-header">Usuários do Painel</li>
+                            <li class="nav-item">
+                                <a href="{{route('admin.users.lista')}}" class="nav-link">
+                                    <i class="fas fa-user nav-icon"></i>
+                                    <p>
+                                        Usuários
+                                    </p>
+                                </a>
+                            </li>
             @endif
                     </ul>
                 </nav>

@@ -15,6 +15,11 @@
 </style>
 @endsection
 @section('painel')
+<section class="content-header">
+    <h1 class="col-6">Mensagens de Contato</h1>
+    <div class="clearfix"></div>
+</section>
+
 <section class="control_800">
     <section class="col-12">
         <div class="col-12">
