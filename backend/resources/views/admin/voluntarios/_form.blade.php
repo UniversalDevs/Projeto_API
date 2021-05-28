@@ -113,10 +113,6 @@
             ><span>Sábado</span></p>
 
         </div>
-        <div class="form-group col-sm-12">
-            <label for="">Senha</label>
-            <input type="password" value="" name="password" class="form-control" required>
-        </div>
 
     </div>
     <div class="clearfix m-top-lg m-bottom-lg"></div>
