@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\Voluntario;
 use App\Models\Mensagens;
 use App\Models\Projeto;
+use App\Models\Cadastro;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 use DB;
@@ -24,7 +25,7 @@ class PaginasController extends Controller
     }
 
     public function projetos(){
-        $projetos = Projeto::where('status','ativo')->get();
+        $projetos = Projeto::where('public', 1)->get();
         return view('src.projetos', compact('projetos'));
     }
 
@@ -56,6 +57,16 @@ class PaginasController extends Controller
     public function enviar_contato(Request $request){
         $data = $request->all();
         Mensagens::create($data);
+        return response()->json(['status'=>'ok']);
+    }
+
+    public function cadastro(Request $request){
+        return view("src.cadastro");
+    }
+
+    public function enviar_cadastro(Request $request){
+        $data = $request->all();
+        Cadastro::create($data);
         return response()->json(['status'=>'ok']);
     }
 }

@@ -16,7 +16,7 @@
 @endsection
 @section('painel')
 <section class="content-header">
-    <h1 class="col-6">Mensagens de Contato</h1>
+    <h1 class="col-6">Futuros voluntários</h1>
     <div class="clearfix"></div>
 </section>
 
@@ -34,18 +34,20 @@
                                 <tr>
                                     <th>Nome</th>
                                     <th>Email</th>
-                                    <th>Conteúdo</th>
+                                    <th>Telefone</th>
+                                    <th>Tipo</th>
                                     <th class="text-right">Ações</th>
 
                                 </tr>
                             </thead>
                             <tbody>
-                                @foreach(@$msgs as $msg)
+                                @foreach(@$voluntarios as $v)
                                 <tr>
-                                    <td>{{$msg->nome}}</td>
-                                    <td>{{$msg->email}}</td>
-                                    <td>{{mb_strimwidth($msg->conteudo, 0 ,50,'...')}}</td>
-                                    <td class="text-right"><a href="{{route('admin.ver_mensagem', $msg->id)}}" class="btn btn-primary btn-xs"><i class="fas fa-eye"></i></a></td>
+                                    <td>{{$v->nome}}</td>
+                                    <td>{{$v->email}}</td>
+                                    <td>{{$v->telefone}}</td>
+                                    <td>{{$v->tipo}}</td>
+                                    <td class="text-right"><a href="{{route('admin.futuros.view', $v->id)}}" class="btn btn-primary btn-xs"><i class="fas fa-eye"></i></a></td>
 
                                 </tr>
                                 @endforeach

@@ -67,15 +67,8 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::get('/novo', ['as'=>'novo','uses'=>'Painel\ProjetosController@novo']);
         Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\ProjetosController@editar']);
         Route::post('store', ['as'=>'store','uses'=>'Painel\ProjetosController@store']);
-        Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
-        Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
-    });
-    Route::group(['prefix'=>'projetos','as'=>'projetos.'], function () {
-        Route::get('/lista', ['as'=>'lista','uses'=>'Painel\ProjetosController@lista']);
-        Route::get('/novo', ['as'=>'novo','uses'=>'Painel\ProjetosController@novo']);
-        Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\ProjetosController@editar']);
-        Route::post('store', ['as'=>'store','uses'=>'Painel\ProjetosController@store']);
         Route::get('/download/{id}', ['as'=>'download','uses'=>'Painel\ProjetosController@download']);
+        Route::get('/share/{id}', ['as'=>'share','uses'=>'Painel\ProjetosController@share']);
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\ProjetosController@update']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\ProjetosController@delete']);
     });
@@ -87,6 +80,11 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
         Route::get('/editar/{id}', ['as'=>'editar','uses'=>'Painel\UserController@editar']);
         Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\UserController@delete']);
         Route::post('/update/{id}', ['as'=>'update','uses'=>'Painel\UserController@update']);
+    }); 
+
+    Route::group(['prefix'=>'futuros','as'=>'futuros.'], function () {
+        Route::get('/lista', ['as'=>'lista','uses'=>'Painel\VoluntariosController@listaNovos']);
+        Route::get('/view/{id}', ['as'=>'view','uses'=>'Painel\VoluntariosController@view']);
     }); 
 
     Route::group(['prefix'=>'ajax','as'=>'ajax.'], function () {
@@ -115,7 +113,8 @@ Route::get('/voluntarios', ['as'=>'voluntarios','uses'=>'Site\PaginasController@
 Route::get('/projetos', ['as'=>'projetos','uses'=>'Site\PaginasController@projetos']);
 Route::get('/contato', ['as'=>'contato','uses'=>'Site\PaginasController@contato']);
 Route::post('/enviar-contato', ['as'=>'enviar-contato','uses'=>'Site\PaginasController@enviar_contato']);
-
+Route::get('/cadastro', ['as'=>'cadastro','uses'=>'Site\PaginasController@cadastro']);
+Route::post('/enviar-cadastro', ['as'=>'enviar-cadastro','uses'=>'Site\PaginasController@enviar_cadastro']);
 
 Route::get('/lista', ['as'=>'lista','uses'=>'Site\ProjetosController@lista']);
 Route::group(['prefix'=>'projetos','as'=>'projetos.'], function () {

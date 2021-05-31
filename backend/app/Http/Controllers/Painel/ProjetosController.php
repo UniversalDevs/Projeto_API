@@ -27,6 +27,7 @@ class ProjetosController extends Controller
         $data['status'] = 'Inativo';
         $c = Auth::user('name');
         $data['criador'] = $c['name'];
+        $data['public'] = 0;
         $media = Media::orderBy('created_at','desc')->first();
         $data['media_id'] = $media['id'];
         Projeto::create($data);
@@ -80,5 +81,12 @@ class ProjetosController extends Controller
             Projeto::find($id)->update(['status'=>'reprovado']);
         }
         return response()->json(['status'=>'ok']);
+    }
+
+    public function share(Request $request, $id){
+        Projeto::where('id',$id)->update([
+            'public'=>1,
+        ]);
+        return redirect()->route('admin.projetos.lista');
     }
 }

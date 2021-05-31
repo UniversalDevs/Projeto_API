@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Painel;
 
 use App\Http\Controllers\Controller;
 use App\Models\Voluntario;
+use App\Models\Cadastro;
 use App\Models\User;
 
 use Illuminate\Http\Request;
@@ -49,6 +50,15 @@ class VoluntariosController extends Controller
     public function delete(Request $request, $id){
         Voluntario::find($id)->update(['tipo'=>'removido']);
         return redirect()->route('admin.voluntarios.lista');
+    }
 
+    public function listaNovos(){
+        $voluntarios = Cadastro::paginate();
+        return view('admin.futuros.lista',compact('voluntarios'));
+    }
+
+    public function view(Request $request, $id){
+        $v = Cadastro::where('id',$id)->first();
+        return view('admin.futuros.lista',compact('v'));
     }
 }

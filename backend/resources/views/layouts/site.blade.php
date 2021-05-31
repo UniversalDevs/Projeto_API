@@ -60,13 +60,13 @@
                     <div class="footer-col">
                         <h4>O que procura?</h4>
                         <ul>
-                            <li><a href="{{url('/voluntarios')}}">Voluntários</a></li>
-                            <li><a href="{{url('/projetos')}}">Projetos</a></li>
-                            <li><a href="{{url('/contato')}}">Contato</a></li>
+                            <li><a href="{{ url('/voluntarios') }}">Voluntários</a></li>
+                            <li><a href="{{ url('/projetos') }}">Projetos</a></li>
+                            <li><a href="{{ url('/contato') }}">Contato</a></li>
 
                         </ul>
                     </div>
-                    
+
                 </div>
             </div>
         </footer>
@@ -74,28 +74,34 @@
     <script type="text/javascript" src="{{ asset('dist/js/Carrosel.js') }}"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.14/jquery.mask.min.js"></script>
+
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
 
     <script>
         $('.slick_projetos').slick({
-                    prevArrow: '<a class="arrow arrow-prev"><i class="fas fa-chevron-left"></i></a>',
-                    nextArrow: '<a class="arrow arrow-next"><i class="fas fa-chevron-right"></i></a>',
-                    responsive: [
-                        {
-                            breakpoint: 768,
-                            settings: {
-                                slidesToShow: 1,
-                                slidesToScroll: 1,
-                                autoplay: true,
-                                autoplaySpeed: 2000,
-                                infinite: true,
-                                dots: false,
-                                arrows: false
-                            }
-                        }
-                    ]
-                });
+            prevArrow: '<a class="arrow arrow-prev"><i class="fas fa-chevron-left"></i></a>',
+            nextArrow: '<a class="arrow arrow-next"><i class="fas fa-chevron-right"></i></a>',
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
+                    infinite: true,
+                    dots: false,
+                    arrows: false
+                }
+            }]
+        });
+
+        $('.cepMask').mask('00000-000');
+        $('.cpfMask').mask('000.000.000-00');
+        $('.rgMask').mask('00.000.000-0');
+        $('.telMask').mask('(00) 00000-0000');
+        $('.datepicker').mask('00/00/0000');
     </script>
     @yield('pos-script')
 </body>

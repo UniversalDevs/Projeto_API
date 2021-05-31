@@ -247,6 +247,8 @@
               </li>
             </ul> -->
                       
+            
+
             @if(Auth::user()->tipo == 'SuperAdmin')
                         <li class="nav-header">Administração</li>
                             <li class="nav-item">
@@ -257,15 +259,24 @@
                                     </p>
                                 </a>
                             </li>
-                            <li class="nav-header">Usuários do Painel</li>
+                            <li class="nav-header">Configurações</li>
+                            <li class="nav-item">
+                                <a href="{{route('admin.futuros.lista')}}" class="nav-link">
+                                    <i class="nav-icon fas fa-chalkboard-teacher"></i>
+                                    <p>
+                                        Futuros voluntários
+                                    </p>
+                                </a>
+                            </li>
                             <li class="nav-item">
                                 <a href="{{route('admin.users.lista')}}" class="nav-link">
-                                    <i class="fas fa-user nav-icon"></i>
+                                    <i class="nav-icon fas fa-users-cog"></i>
                                     <p>
                                         Usuários
                                     </p>
                                 </a>
                             </li>
+                            
             @endif
                     </ul>
                 </nav>
