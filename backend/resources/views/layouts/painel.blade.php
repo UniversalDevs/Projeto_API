@@ -264,7 +264,7 @@
                                 <a href="{{route('admin.futuros.lista')}}" class="nav-link">
                                     <i class="nav-icon fas fa-chalkboard-teacher"></i>
                                     <p>
-                                        Futuros voluntários
+                                        Candidatos a Voluntários
                                     </p>
                                 </a>
                             </li>

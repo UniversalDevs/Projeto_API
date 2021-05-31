@@ -57,8 +57,8 @@ class VoluntariosController extends Controller
         return view('admin.futuros.lista',compact('voluntarios'));
     }
 
-    public function view(Request $request, $id){
-        $v = Cadastro::where('id',$id)->first();
-        return view('admin.futuros.lista',compact('v'));
+    public function deleteView(Request $request, $id){
+        Cadastro::where('id',$id)->delete();
+        return redirect()->route('admin.futuros.lista');
     }
 }

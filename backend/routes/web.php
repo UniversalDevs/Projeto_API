@@ -85,6 +85,7 @@ Route::group(['prefix'=>'/admin','middleware'=>['auth'], 'as'=>'admin.'], functi
     Route::group(['prefix'=>'futuros','as'=>'futuros.'], function () {
         Route::get('/lista', ['as'=>'lista','uses'=>'Painel\VoluntariosController@listaNovos']);
         Route::get('/view/{id}', ['as'=>'view','uses'=>'Painel\VoluntariosController@view']);
+        Route::get('/delete/{id}', ['as'=>'delete','uses'=>'Painel\VoluntariosController@deleteView']);
     }); 
 
     Route::group(['prefix'=>'ajax','as'=>'ajax.'], function () {

@@ -16,7 +16,7 @@
 @endsection
 @section('painel')
 <section class="content-header">
-    <h1 class="col-6">Futuros voluntários</h1>
+    <h1 class="col-6">Candidatos a Voluntário</h1>
     <div class="clearfix"></div>
 </section>
 
@@ -24,35 +24,36 @@
     <section class="col-12">
         <div class="col-12">
             <div class="card">
-                
+
 
                 <!-- /.card-header -->
                 <div class="card-body table-responsive p-0">
 
-                        <table class="table table-hover">
-                            <thead>
-                                <tr>
-                                    <th>Nome</th>
-                                    <th>Email</th>
-                                    <th>Telefone</th>
-                                    <th>Tipo</th>
-                                    <th class="text-right">Ações</th>
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Email</th>
+                                <th>Telefone</th>
+                                <th>Tipo</th>
+                                <th class="text-right">Ações</th>
 
-                                </tr>
-                            </thead>
-                            <tbody>
-                                @foreach(@$voluntarios as $v)
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(@$voluntarios as $v)
                                 <tr>
-                                    <td>{{$v->nome}}</td>
-                                    <td>{{$v->email}}</td>
-                                    <td>{{$v->telefone}}</td>
-                                    <td>{{$v->tipo}}</td>
-                                    <td class="text-right"><a href="{{route('admin.futuros.view', $v->id)}}" class="btn btn-primary btn-xs"><i class="fas fa-eye"></i></a></td>
-
+                                    <td>{{ $v->nome }}</td>
+                                    <td>{{ $v->email }}</td>
+                                    <td>{{ $v->telefone }}</td>
+                                    <td>{{ $v->tipo }}</td>
+                                    <td class="text-right">
+                                    <a href="{{ route('admin.futuros.delete', $v->id) }}"
+                                            class="btn btn-danger btn-xs"><i class="fas fa-trash"></i></a></td>
                                 </tr>
-                                @endforeach
-                            </tbody>
-                        </table>
+                            @endforeach
+                        </tbody>
+                    </table>
 
 
                 </div>
