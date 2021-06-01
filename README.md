@@ -38,8 +38,8 @@
 <p>:white_check_mark: <a href="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint3">Sprint 3 </a>- 26/04 à 16/05</p>
 <p>:construction: Sprint 4 - 17/05 à 05/06</p>
 <hr>
-<p>Apresentação Final - 07/06 à 11/06</p>
-<p>Feira de Soluções - 14/06 à 18/06</p>
+<p><strong>Apresentação Final - 07/06 à 11/06</strong></p>
+<p><strong>Feira de Soluções - 14/06 à 18/06</strong></p>
 <hr>
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Ferramentas%20e%20Tecnologias%20utilizadas.png"/>
