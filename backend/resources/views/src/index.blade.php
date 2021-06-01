@@ -13,7 +13,7 @@
             <strong>Acesse e venha fazer parte<br> da nossa ONG</strong>
         </p>
 
-        <a href="#" style="padding-left: 40px;"><button>Clique Aqui</button></a>
+        <a href="{{ url('/cadastro') }}" style="padding-left: 40px;"><button>Clique Aqui</button></a>
 
     </section>
     <h2 id="Voluntarios">Projetos</h2>
