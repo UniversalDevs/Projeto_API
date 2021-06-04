@@ -18,9 +18,9 @@
 <hr>
 <h3>:bookmark_tabs: Entregas da Sprint</h3>
 <p>Para a formação das tarefas dessa Sprint, além do formulário do site institucional, foram apresentadas propostas de alteração e incrementação ao projeto, sendo definido:</p>
-<p>:ballot_box_with_check: <strong>Botão Publicação: </strong>permite com que seja opcional a publicação dos projetos no site Institucional.</p>
-<p>:ballot_box_with_check: <strong>Divisão do Painel Administrativo:</strong>Limitar ações de voluntários no painel administrativo, permitindo apenas o cadastro de projetos</p>
-<p>:ballot_box_with_check: <strong>Formulário de Interesse:</strong>Criar formulário, no site institucional, para coletar interesses de visitantes acerca do voluntariado.</p>
+<p>:ballot_box_with_check: <strong>Botão Publicação: </strong> Tornar opcional a publicação dos projetos no site Institucional.</p>
+<p>:ballot_box_with_check: <strong>Divisão do Painel Administrativo:</strong> Limitar ações de voluntários no painel administrativo, permitindo apenas o cadastro de projetos.</p>
+<p>:ballot_box_with_check: <strong>Formulário de Interesse:</strong>Criar formulário, no site institucional, para coletar interesses de visitantes sobre o voluntariado.</p>
 
 <hr>
 
