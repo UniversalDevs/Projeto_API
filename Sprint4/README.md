@@ -1,4 +1,4 @@
-<h1 align="center">:chart_with_upwards_trend: Sprint 3 :chart_with_upwards_trend:</h1>
+<h1 align="center">:chart_with_upwards_trend: Sprint 4 :chart_with_upwards_trend:</h1>
 <p align="center">
   <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Sprint4/Sprint4.PNG" width="200"/>
 </p>
