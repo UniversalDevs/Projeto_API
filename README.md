@@ -68,7 +68,8 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%232.PNG" width="550"/>
 <p><strong>Sprint #3</strong></p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Burndowns/BurndownSprint%233.PNG" width="550"/>
-
+<p><strong>Sprint #4</strong></p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint4/GraficodoBurndownSprint4.PNG" width="550"/>
 
 
 
