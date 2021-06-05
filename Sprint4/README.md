@@ -25,12 +25,11 @@
 <hr>
 
 <h3>:chart_with_downwards_trend: Burndown Chart </h3>
-<p>Lista de Atividades</p>
-<img src="" width="900"/>
+
 <p>Tabela do Brundown</p>
-<img src="" width="500"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint4/TabeladoBurndownSprint4.PNG" width="500"/>
 <p>Gráfico Burndown</p>
-<img src="" width="500"/>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint4/GraficodoBurndownSprint4.PNG" width="500"/>
 <hr>
 
 
