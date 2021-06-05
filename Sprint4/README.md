@@ -33,9 +33,6 @@
 <hr>
 
 
-<h3>:link: Ferramentas Integradas à Área Administrativa e Institucional</h3>
-<p> Nessa Sprint foram implementadas ferramentas que conectam as informações da área administrativa e área institucional.</p>
-<p>🎥 Também é possível encontrar as funcionalidades da Área Administrativa/Institucional no Youtube. Acesse: <a href="https://youtu.be/HwMZSNTNxtA"> API 2021/1 - Instituto Vó Maria Felix - Sprint 03 (Área Administrativa/Institucional)</a></p>
 
 <hr>
 <h3>Botão de Publicação</h3>
