@@ -7,7 +7,7 @@
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#heavy_exclamation_mark-informa%C3%A7%C3%B5es-destaque"> Informações Importantes</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#bookmark_tabs-entregas-da-sprint">Entregas da Sprint </a>  •
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#chart_with_downwards_trend-burndown-chart-"> Burndown Chart</a>  • 
-  <a href =""> Demonstração das Funcionadades</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#funcionalidades"> Demonstração das Funcionadades</a>  • 
 </p>
 <hr>
 
@@ -32,8 +32,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Sprint4/GraficodoBurndownSprint4.PNG" width="500"/>
 <hr>
 
-<h3>Funcionalidades</h3>
-<hr>
+<h3>:wrench: Funcionalidades</h3>
 <h3>Botão de Publicação</h3>
 <p> O Botão de Publicação permite com que a publicação de projetos seja opcional.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/BotaoPublicacaoParte1.gif"/>
