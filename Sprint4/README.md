@@ -7,7 +7,7 @@
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#heavy_exclamation_mark-informa%C3%A7%C3%B5es-destaque"> Informações Importantes</a>  • 
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#bookmark_tabs-entregas-da-sprint">Entregas da Sprint </a>  •
   <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#chart_with_downwards_trend-burndown-chart-"> Burndown Chart</a>  • 
-  <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#funcionalidades"> Demonstração das Funcionadades</a>  • 
+  <a href ="https://github.com/UniversalDevs/Projeto_API/tree/main/Sprint4#wrench-funcionalidades"> Demonstração das Funcionadades</a>  • 
 </p>
 <hr>
 
