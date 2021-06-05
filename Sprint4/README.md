@@ -52,5 +52,9 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/FormularioParte2.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/FormularioParte3.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/FormularioParte4.gif"/>
-  
+<hr>
+
+<h3>Divisão do Painel Administrativo</h3>
+<p>A tela de voluntários, somente permite o acesso ao cadastro de projetos.<p>
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/TelaVoluntarios.jpeg"/>
 
