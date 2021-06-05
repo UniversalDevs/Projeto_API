@@ -46,7 +46,7 @@
 
 
 <hr>
-<h3>Formulário de Interesse</p>
+<h3>Formulário de Interesse</h3>
 <p>No site Institucional há um formulário de interesse na página inicial. Após o preenchimento das informações, esses dados são enviados para Área administrativa.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/FormularioParte1.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/FormularioParte2.gif"/>
