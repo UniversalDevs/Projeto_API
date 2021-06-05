@@ -43,7 +43,7 @@
 <p> O Botão de Publicação permite com que a publicação de projetos seja opcional.</p>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/BotaoPublicacaoParte1.gif"/>
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Gifs/BotaoPublicacaoParte2.gif"/>
-<hr>
+
 
 <hr>
 <h3>Formulário de Interesse</p>
