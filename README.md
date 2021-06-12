@@ -122,6 +122,7 @@
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Guilherme.PNG?raw=true" width="50px">
         </td>
         <td>Desenvolvedor Front-End</td>
+        <td><a href="https://www.linkedin.com/in/guilherme-cursino-679410213/">LinkedIn</a></td>
      </tr>
     </tbody>
   </table>
