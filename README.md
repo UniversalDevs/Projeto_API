@@ -92,6 +92,7 @@
       <th>Nome</th>
       <th>Foto</th>
       <th>Função</th>
+      <th>Contato</th>
     </thead>
     <tbody>
      <tr>
