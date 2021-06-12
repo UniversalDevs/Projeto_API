@@ -100,6 +100,7 @@
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Eduardo.jpeg?raw=true" width="50px">
         </td>
       <td>Desenvolvedor Back-End</td>
+      <td><a href="https://www.linkedin.com/in/eduardo-carvalho-0a1411213/">LinkedIn</a></td>
      </tr>
      <tr>
       <td>Felipe Augusto dos Santos Sousa</tb>
@@ -107,6 +108,7 @@
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Felipe.jpg?raw=true" width="50px">
         </td>
         <td>Scrum Master</td>
+        <td><a href="https://www.linkedin.com/in/felipe-s-89938418a/">LinkedIn</a></td>
      </tr>
      <tr>
       <td>Gabriel Ramos Oliveira</tb>
@@ -114,6 +116,7 @@
           <img src= "https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/Fotos%20Equipe/Ramos.jpeg?raw=true" width="50px">
         </td>
         <td>Desenvolvedor Back-End</td>
+        <td><a href="https://www.linkedin.com/in/gabriel-ramos-b845581a3/">LinkedIn</a></td>
      </tr>
      <tr>
      <tr>
