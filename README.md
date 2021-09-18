@@ -25,11 +25,10 @@
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 <hr>
 <h3>:pushpin: Requisitos do cliente</h3>
-<p>:ballot_box_with_check: Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações, Quadro Presença.</p>
-<p>:ballot_box_with_check: Usuários perfis diferentes. </p>
-<p>:ballot_box_with_check: Lançamento do quadro de presenças</p>
-<p>:ballot_box_with_check: Emissão de Relatórios. </p>
-</p>
+<p>:ballot_box_with_check: Cadastro de Voluntários</p>
+<p>:ballot_box_with_check: Cadastro de Participantes</p>
+<p>:ballot_box_with_check: Cadastro de Projetos</p>
+<p>:ballot_box_with_check: Aprovação de Projetos</p>
 
 <hr>
 <h3>:arrows_counterclockwise: Sprints</h3>
