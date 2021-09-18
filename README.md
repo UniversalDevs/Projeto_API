@@ -22,13 +22,13 @@
 </p>  
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
-<p>O Instituto Vó Maria Félix, ONG (Organização Não Governamental) atende crianças de 0 à 7 anos de idade e conta com a ajuda de voluntários para realizar os projetos à estes oferecido. O site é voltado para o gerenciamento de voluntários, projetos e participantes da ONG, com o intuito de facilitar as atividades administrativas da instituição. Os administradores do site poderão cadastrar voluntários e participantes e aprovar projetos, assim como, os voluntários poderão cadastrar projetos e solicitar aprovação aos administradores. Deste modo, os projetos só poderão ser realizados por voluntários da ONG caso ele seja aprovado primeiramente por um administrador. O site tornará a ONG mais corporativa e prática na realização de seus projetos às crianças, podendo estes serem publicados pós realização.</p>
+<p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 <hr>
 <h3>:pushpin: Requisitos do cliente</h3>
-<p>:ballot_box_with_check: Cadastro de Voluntários</p>
-<p>:ballot_box_with_check: Cadastro de Participantes</p>
-<p>:ballot_box_with_check: Cadastro de Projetos</p>
-<p>:ballot_box_with_check: Aprovação de Projetos
+<p>:ballot_box_with_check: Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações, Quadro Presença.</p>
+<p>:ballot_box_with_check: Usuários perfis diferentes. </p>
+<p>:ballot_box_with_check: Lançamento do quadro de presenças</p>
+<p>:ballot_box_with_check: Emissão de Relatórios. </p>
 </p>
 
 <hr>
